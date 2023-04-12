@@ -1,0 +1,141 @@
+
+        body {
+            background-color: #fffdf5;
+            font-family:'Montserrat', sans-serif
+
+        }
+
+        #total-signup-page {
+
+            width: 70%;
+            margin: auto;
+            height: 100vh;
+            display: flex;
+            background-color: #fffdf5;
+
+
+        }
+
+        #total-signup-page>div {
+
+            flex: 1;
+            margin-top: 30px;
+            display: flex;
+            justify-content: center;
+            margin-top: 180px;
+
+
+
+        }
+
+        #total-signup-page .left-signup img {
+
+            height: 470px;
+            margin: 30px auto;
+            box-sizing: border-box;
+
+
+
+
+
+        }
+
+        #total-signup-page .right-signup {
+
+            display: flex;
+            justify-content: center;
+
+        }
+
+        #total-signup-page .right-signup>div {
+
+            display: grid;
+            height: 75%;
+            width: 100%;
+            box-sizing: border-box;
+            background-color: white;
+            padding: 2% 10%;
+
+
+        }
+
+        /* #total-signup-page .right-signup>div h2,
+        h5,
+        input,
+        div,
+        button {} */
+
+        #total-signup-page .right-signup>div input {
+
+
+            height: 40px;
+            border: none;
+            border-bottom: 1px solid gray;
+            outline: none;
+
+border-color: rgb(255,246,204);
+        }
+
+        #total-signup-page .right-signup>div button {
+
+
+            width: 80%;
+            display: flex;
+            border: none;
+            margin: auto;
+            height: 50px;
+            text-align: center;
+            align-items: center;
+            justify-content: center;
+            border-radius: 5px;
+            color: white;
+            background-color: gray;
+            font-size: 20px;
+            margin-top: 20px;
+
+
+
+        }
+        .left-signup{
+            background-color: rgb(255,250,227);
+        }
+        .right-signup{
+           border-color:  rgb(255,255,255);
+
+        }
+
+        #checkbox-signup {
+
+
+            width: 15px;
+            height: 15px;
+            line-height: 1px;
+        }
+
+        .fullname {
+            position: absolute;
+            top: 290px;
+            color: gray;
+        }
+
+        .Mobile {
+            position: absolute;
+            top: 330px;
+            color: gray;
+        }
+
+
+        .email {
+            position: absolute;
+            top: 400px;
+            color: gray;
+        }
+
+       
+        .password {
+            position: absolute;
+            top: 450px;
+            color: gray;
+        }
+
+      
