@@ -1,0 +1,230 @@
+
+/* Header */
+/* #header{
+    background-color: #eeeeee;
+} */
+#header_row_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px;
+    background-color: #eeeeee;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: smaller;
+    letter-spacing: 0.5px;
+}
+#header_row_1_left{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+#header_row_1_left a{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    text-decoration: none;
+    color: black;
+}
+#header_row_1_right a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+#header_row_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 5px 20%;
+    background-color: white;
+    border-bottom: 2px solid #eeeeee;
+}
+#header_row_2_left,
+#header_row_2_right{
+    display: flex;
+    flex-direction: row;
+    column-gap: 50px;
+}
+#header_row_2_left  img{
+    width: 150px;
+}
+#header_row_2_left #menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    letter-spacing: 2px;
+}
+#header_row_2_left #menu a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+#header_row_2_left #menu a:hover{
+    border-bottom: 5px solid #fdd835;
+}
+#header_row_2_right{
+    column-gap: 10px;
+}
+#header_row_2_right #search_box{
+    padding: 10px;
+    background-color: #eeeeee;
+    border-radius: 10px;
+    
+}
+#header_row_2_right #search_box input{
+    width: 200px;
+    border: none;
+    background-color: #eeeeee;
+    font-size: 11px;
+}
+#header_row_2_right #user_details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 20px;
+}
+#header_row_2_right #user_details a{
+    font-size: larger;
+    color: black;
+}
+#header_row_2_right #user_details a:first-child{
+    border-left: 1px solid #b2b2b2;
+    padding-left: 10px;
+}
+#header_row_2_right #user_details img{
+    width: 35px;
+    height: 35px;
+    border-radius: 40px;
+}
+hr{
+    color: white;
+}
+#header_row_3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5px 30%;
+    background-color: white;
+    letter-spacing: 1px;
+}
+#header_row_3 a{
+    text-decoration: none;
+    color: black;
+}
+#header .hide{
+    display: none;
+    visibility: hidden;
+}
+
+/* Drop down function */
+#temp{
+    overflow-y: auto;
+    max-height: 600px;
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    flex-direction: row;
+    border: 2px solid #eeeeee;
+    padding: 1%;
+    background-color: white;
+}
+#temp::-webkit-scrollbar{
+    display: none;
+}
+#temp a{
+    text-decoration: none;
+    color: #b2b2b2;
+    padding: 5px;
+}
+#temp a h3{
+    color: black;
+}
+#temp #categories{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5px;
+    /* padding: 20px; */
+}
+#temp #categories #column_1,
+#temp #categories #column_2,
+#temp #categories #column_3{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+}
+#temp #specials{
+    display: flex;
+    flex-direction: column;
+    /* padding: 30px; */
+    margin-left: 1%;
+    border-left: 2px solid #eeeeee;
+    padding-left: 20px;
+}
+#temp #specials a{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 10px;
+    width: 200px;
+}
+#temp #specials img{
+    width: 40px;
+}
+
+/* Select Country PopUp */
+#country{
+    position: fixed;
+    top: 40%;
+    left: 40%;
+    background-color: white;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 20px;
+}
+#country #head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #b2b2b2;
+    padding: 2px 20px;
+    font-size: small;
+}
+#country #body{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 50px;
+    row-gap: 20px;
+    padding: 20px 50px;
+}
+#country #body div{
+    display: flex;
+    flex-direction: column;
+}
+
+/* login User drop down details */
+#user_details #users{
+    position: fixed;
+    top: 9%;
+    left: 68%;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    background-color: white;
+    border: 1px solid black;
+}
+#user_details #users div:first-child{
+    background-color: #eeeeee;
+    font-style: italic;
+}
+#user_details #users div{
+    padding: 10px;
+}
+#user_details #users div:hover{
+    background-color: #eeeeee;
+}
+
