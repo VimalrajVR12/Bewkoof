@@ -21,14 +21,22 @@ function createlement(arr) {
     var img = document.createElement("img");
     img.setAttribute("src", obj.image_url);
 
-    var name = document.createElement("p");
+    var name = document.createElement("h4");
     name.textContent = obj.name;
 
     var pric = document.createElement("span");
-    pric.textContent = obj.price;
+    pric.textContent = `₹${obj.price}`;
 
     var strik = document.createElement("span");
-    strik.textContent = obj.strikedoffprice;
+    strik.textContent = `₹${obj.strikedoffprice}`;
+
+    var divS = document.createElement("div");
+        divS.setAttribute("id", "savediv");
+        var yousave = document.createElement("p");
+        var saved=obj.strikedoffprice-obj.price;
+        yousave.textContent=`You Saved ₹${saved}!`
+        yousave.style.color="green";
+        divS.append(yousave);
 
     var divBtn = document.createElement("div");
     divBtn.setAttribute("id", "btn");
@@ -38,11 +46,14 @@ function createlement(arr) {
     btn.textContent = "Move To Bag";
     btn.addEventListener("click", function () {
       addtobag(obj);
+      deleteitem(obj);
+
     });
 
 
     var hr=document.createElement("hr");
-    hr.style.color="rgb(246, 246, 246)";
+    hr.setAttribute("class","hr");
+    
 
     divBtn.append(btn);
 
@@ -56,9 +67,10 @@ function createlement(arr) {
     spa.innerHTML = "&#xD7";
     remov.append(spa);
 
-    div.append(img, name, pric, strik, hr,divBtn, remov);
+    div.append(img, name, pric, strik,divS, hr,divBtn, remov);
 
     document.querySelector(".caintainerdiv").append(div);
+    document.querySelector("#totalitems").textContent = ` ${arr.length + 1} Items`;
   });
 };
 function deleteitem(index) {
@@ -71,4 +83,5 @@ function addtobag(obj) {
   bagarr.push(obj);
   alert("Your item added to cart");
   localStorage.setItem("cart", JSON.stringify(bagarr));
+  deleteitem(obj);
 }

@@ -45,18 +45,18 @@ cartbag=[
   
         var div1 = document.createElement("div");
         div1.setAttribute("id", "textdiv");
-        var name = document.createElement("p");
+        var name = document.createElement("h4");
         name.textContent = obj.name;
   
         var pri = document.createElement("span");
-        pri.textContent = obj.price + " ";
+        pri.textContent = `₹${obj.price} `;
         pri.setAttribute("class","pri")
   
         var priceQ=obj.price;
   
         var strikpri = document.createElement("span");
         strikpri.setAttribute("id", "strik");
-        strikpri.textContent = obj.strikedoffprice;
+        strikpri.textContent = `₹${obj.strikedoffprice}`;
   
         var strikedoffpriceQ=obj.strikedoffprice;
 
@@ -65,11 +65,10 @@ cartbag=[
         divS.setAttribute("id", "savediv");
         var yousave = document.createElement("p");
         var saved=obj.strikedoffprice-obj.price;
-        yousave.textContent=`You Saved ${saved}`
+        yousave.textContent=`You Saved ₹${saved}!`
+        yousave.style.color="green";
         divS.append(yousave);
 
-
-  
         var divQ = document.createElement("div");
         divQ.setAttribute("id", "quandiv");
   
@@ -111,9 +110,26 @@ cartbag=[
   
           qun.append(opt,opt1,opt2,opt3,opt4,opt5,opt6,opt7,opt8,opt9,opt10)
           
+          var Selectsize=document.createElement("select")
+          var size=document.createElement("option")
+          size.textContent="Size";
+          var size1=document.createElement("option")
+          size1.textContent="S";
+          var size2=document.createElement("option")
+          size2.textContent="M";
+          var size3=document.createElement("option")
+          size3.textContent="L";
+          var size4=document.createElement("option")
+          size4.textContent="XL";
+          var size5=document.createElement("option")
+          size5.textContent="2XL";
+          var size6=document.createElement("option")
+          size6.textContent="3XL";
+
+          Selectsize.append(size,size1,size2,size3,size4,size5,size6)
 
 
-          divQ.append(qun)
+          divQ.append(qun,Selectsize)
   
           qun.addEventListener("change", selected_qty_value)
   
@@ -125,12 +141,12 @@ cartbag=[
              var tl=priceQ*qun.value;
              var tls=strikedoffpriceQ*qun.value;
              var s=tls-tl
-              
-              pri.append(tl);
-              strikpri.append(tls);
-              yousave.append(`You Saved ${s}`);
+              pri.append(`₹${tl}`);
+              strikpri.append(`₹${tls}`);
+              yousave.append(`You Saved ₹${s}`);
 
-          }
+              }
+              
           // obj.price=tl;
           // obj.strikedoffprice=tls;
   
@@ -180,24 +196,33 @@ cartbag=[
     }
   
     function totalitembag(index) {
-      document.querySelector("#totalitem").textContent = `My Bag ${index + 1}item`;
+      document.querySelector("#totalitem").textContent = `My Bag ${index + 1} Items`;
     }
     function totalpr(cartbag) {
       var total = cartbag.reduce(function (ac, cv) {
+        return ac += Number(cv.strikedoffprice);
+      }, 0)
+      var subtotal = cartbag.reduce(function (ac, cv) {
         return ac += Number(cv.price);
       }, 0)
+      // var save=Number(cv.strikedoffprice)-Number(cv.price);
       if (cupponarr.length > 0) {
-        document.querySelector("#subtotal").textContent = Number(total) - 200;
-        document.querySelector("#paymenttotal").textContent = Number(total) - 200;
-        finalpayment.push(Number(total) - 200);
+        document.querySelector("#subtotal").textContent = `₹${Number(subtotal) - 200}`;
+        document.querySelector("#paymenttotal").textContent = `₹${Number(subtotal) - 200}`;
+        document.querySelector("#saving").textContent =`₹${Number(total)-Number(subtotal)}`;
+        document.querySelector("#Discount").textContent =`₹${Number(total)-Number(subtotal)}`;
+        
+        finalpayment.push(Number(subtotal) - 200);
         localStorage.setItem("finalpayment", JSON.stringify(finalpayment));
       } else {
-        document.querySelector("#subtotal").textContent = total;
-        document.querySelector("#paymenttotal").textContent = total;
-        finalpayment.push(total);
+        document.querySelector("#subtotal").textContent = `₹${Number(subtotal)}` ;
+        document.querySelector("#paymenttotal").textContent =`₹${Number(subtotal)}`;
+        document.querySelector("#saving").textContent = `₹${Number(total)-Number(subtotal) }`;
+        document.querySelector("#Discount").textContent =`₹${Number(total)-Number(subtotal) }`;
+        finalpayment.push(Number(subtotal));
         localStorage.setItem("finalpayment", JSON.stringify(finalpayment));
       }
-      document.querySelector("#totalprice").textContent = total;
+      document.querySelector("#totalprice").textContent = `₹${Number(total)}`;
     }
   
     document.querySelector("#havecuppon").addEventListener("click", function () {
@@ -218,5 +243,5 @@ cartbag=[
       }
     });
     document.querySelector("#btnadd").addEventListener("click", function () {
-      window.location.href = "pay.html";
+      window.location.href = "address.html";
     })

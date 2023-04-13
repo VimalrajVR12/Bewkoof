@@ -36,8 +36,8 @@
   }
 
   #item button {
-    width: 60%;
-    padding: 5px 15px;
+    width: 90%;
+    padding: 8px;
     border: 2px solid rgb(8, 226, 215);
     border-radius: 5px;
     background:  rgb(8, 226, 215);
@@ -47,7 +47,10 @@
     cursor: pointer;
 
   }
-
+  #item button:hover{
+    background-color:  rgb(4, 91, 91);
+    border: none;
+  }
   #emptyarrtable {
     margin: -25px auto;
     margin-bottom: 20px;
@@ -68,22 +71,32 @@
     grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     text-align: center;
-    width: 80%;
-    
-    margin: auto;
+    width: 75%;
+     margin: auto;
+  }
+  h4{
+    margin-top: 2px;
+    margin-bottom: 10px;
   }
 
   #item {
     position: relative;
-    border: 1px solid rgb(201, 192, 192);
+    border: 1px solid rgb(227, 221, 221);
   }
 
   #item>span {
     padding-right: 1em;
+    font-weight: 800;
+  }
+
+  #savediv p{
+    margin-top: 7px;
+    margin-bottom: 10px;
   }
 
   #item>span~span{
     text-decoration: line-through;
+    color: rgb(207, 189, 189);;
   }
 
   #item>img {
@@ -105,9 +118,12 @@
     right: 3%;
     background-color: rgb(255, 254, 254);
   }
+  .hr{
+    border: 1px solid rgb(227, 221, 221);
+  }
 
   #wish {
-    margin-left: 8%;
+    margin-left: 12.5%;
   }
   #btn{
     margin-bottom: 10px;
