@@ -59,6 +59,263 @@
     margin-top:30px;
   }
   #t{
-    padding: none;
-    border: 1px solid black;
+    padding-top: 0px;
+  }
+
+
+  
+  .bodyaddtocart {
+    width: 75%;
+    margin: auto;
+  }
+  .cartheader {
+    width: 100%;
+  }
+  .cartheader > h4 {
+    height: 10px;
+    padding: 5px;
+  }
+  .cart {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+  }
+  #leftdiv {
+    width: 60%;
+  }
+  #rightdiv{
+      width: 40%;
+  }
+  #giftlogo {
+    width: 19px;
+    height: 12px;
+  }
+  .hedad {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    background-color: RGB(252, 255, 238);
+    margin-bottom: 20px;
+    border-radius: 5px;
+  }
+  .hedad > span {
+    font-size: 14px;
+    color: black;
+    font-family: Montserrat;
+    margin-left: 10px;
+  }
+  #righthead {
+    display: flex;
+    height: 50px;
+    align-items: center;
+    background-color: gold;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  #righthead > p {
+    color: black;
+    margin-left: 10px;
+  }
+  #cuppon {
+    margin-bottom: 15px;
+    border-radius: 4px;
+    border: 1px solid rgb(234, 234, 234);
+    background-color: rgb(255, 255, 255);
+    color: rgb(45, 45, 45);
+    font-family: Montserrat-Regular;
+    line-height: 1.44;
+    font-size: 14px;
+    padding: 5px 15px;
+  }
+  #havecuppon {
+    display: flex;
+    justify-content: space-between;
+    padding: 6px;
+    border: 1px solid #eaeaea;
+    background: rgba(66, 162, 161, 0.1);
+    cursor: pointer;
+  }
+  #havecuppon > span {
+    color: #42a2a2;
+  }
+  .summery {
+    padding: 10px;
+  }
+  #paymenthead > h4 {
+    font-size: 13px;
+    background-color: rgba(0, 0, 0, 0.04);
+  }
+  .summery {
+    margin-top: 5px;
+    padding: 15px 20px 15px;
+    border-radius: 4px;
+    border: 1px solid rgb(234, 234, 234);
+  }
+  .paymentboxInner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    font-family: montserrat-regular, sans-serif;
+    font-size: 14px;
+    line-height: 0.2;
+    padding-bottom: 10px;
+  }
+  .saving {
+    background: rgba(29, 136, 2, 0.1);
+    border-radius: 14px;
+    padding: 6px 10px;
+    margin-top: 5px;
+    text-align: left;
+    font-size: 14px;
+    font-family: montserrat, sans-serif;
+    color: rgb(29, 136, 2);
+  }
+  .paymentfooter>span{
+      display: block;
+      font-size: 12px;
+      font-family: montserrat,sans-serif;
+      color: #000;
+      line-height: 14px;
+      padding: 0 0 4px;
+  }
+  .paymentfooter{
+      padding: 10px;
+      display: flex;
+      justify-content: space-around;
+      width: 96%;
+      border: 1px solid rgb(234, 234, 234);
+  }
+  #btnadd {
+      background: rgb(66,162,162);
+      border-color: rgb(66, 162, 162);
+      color: white;
+      width: 280px;
+      cursor: pointer;
+      padding:20px;
+      height: 50px;
+      text-align: center;
+  }
+  /* -------------------cart item-------------------- */
+  #itemdiv{
+      display: flex;
+      border: 1px solid rgb(234, 234, 234);
+      margin-bottom: 20px;
+      height: auto;
+      
+  }
+  #itemdiv>div{
+      width: 50%;
+  }
+  .cartbtn{
+    width: 60%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+    border-color: rgb(66, 162, 162);
+    background-color:  rgb(66, 162, 162);
+    padding: 10px;
+    color: white;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+  .cartbtnM{
+    width: 60%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+    border-color: rgb(66, 162, 162);
+    background-color:  rgb(66, 162, 162);
+    padding: 10px;
+    color: white;
+    margin-right: 50px;
+    margin-bottom: 30px;
+  }
+  #imagediv>img{
+    width: 90px;
+    height: 100px;
+    float: right;
+    margin-right: 50px;
+    margin-top: 30px;
+  }
+
+  #textdiv,#imagediv{
+    height: 250px;
+    position: relative;
+    padding: 20px;
+  }
+  #strik{
+    text-decoration: line-through;
+  }
+  .pri{
+    margin-right: 20px;
+  }
+  /* -------------cuppon------------ */
+  .cuppon{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+  }
+  .cointa{
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    position: relative;
+  }
+  #code{
+    width: 250px;
+    height: 30px;
+    font-size: 1.2em;
+    border: 0;
+    border-bottom: 2px solid rgb(66,162,162);
+  }
+  #apply{
+    display: block;
+    width: 230px;
+    font-size: 1.5em;
+    height: 50px;
+    margin:20px auto;
+    background-color: rgb(66,162,162);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  #close{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    transform: rotate(45deg);
+    font-size: 2em;
+    cursor: pointer;
+  }
+  #code:focus{
+    outline: none;
+  }
+  @media only screen and (min-width:0px) and (max-width:700px){
+    .cart{
+      display: block;
+    }
+  }
+  
+  /*------------------------------------- Scrool Bar Design------------------------------------------------- */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(#3838389c, #1312127a);
+    border-radius: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(#5ca3a6, #0051ff);
   }
