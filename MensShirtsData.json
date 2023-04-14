@@ -1,0 +1,847 @@
+{
+    "menShirts": [
+      {
+       "name": "Men's Orange Tape Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-orange-tape-shirt-317831-1675057118-1.jpg",
+       "images":[ "https://images.bewakoof.com/t640/men-s-orange-tape-shirt-317831-1675057118-1.jpg",
+                  "https://images.bewakoof.com/original/men-s-orange-tape-shirt-317831-1675057123-2.jpg",
+                  "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057128-3.jpg",
+                  "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057133-4.jpg",
+                  "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057139-5.jpg",
+                  "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057144-6.jpg",
+                  "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057149-7.jpg"
+                ],
+       "price": 551,
+       "MRP": 1499,
+       "discount": 509,
+       "brand": "Bewakoof®",
+       "fit": "",
+       "ratings": "4.6",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Color Block Slim Fit Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-color-block-slim-fit-shirt-538651-1661776755-1.JPG",
+       "images": [
+                  "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776755-1.JPG",
+                  "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776760-2.JPG",
+                  "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776765-3.JPG",
+                  "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776770-4.JPG",
+                  "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776775-5.JPG"
+       ],
+       "price": 674,
+       "MRP": 1499,
+       "discount": 639,
+       "brand": "Rigo",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Plus Size Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-black-plus-size-shirt-587079-1680858900-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858905-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858910-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858916-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858916-4.jpg"
+   ],
+       "price": 1099,
+       "MRP": 1999,
+       "discount": 1039,
+       "brand": "Instafab Plus",
+       "fit": "",
+       "cotton": "100% COTTON",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Green Checked Plus Size Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-green-checked-plus-size-shirt-587101-1680859034-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859039-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859044-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859050-4.jpg"
+       ],
+       "price": 1249,
+       "MRP": 2499,
+       "discount": 1179,
+       "brand": "Instafab Plus",
+       "fit": "",
+       "cotton": "100% COTTON",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Light Blue Plus Size Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-light-blue-plus-size-shirt-587077-1680858200-1.jpg",
+       "images":[
+  "https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858206-2.jpg",
+  "https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858211-3.jpg",
+  "https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858216-4.jpg",
+  "https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858222-5.jpg"
+       ],
+       "price": 1099,
+       "MRP": 1999,
+       "discount": 1039,
+       "brand": "Instafab Plus",
+       "fit": "",
+       "cotton": "100% COTTON",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Checked Plus Size Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-plus-size-shirt-587111-1680858531-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858537-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858542-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858547-4.jpg"
+  
+       ],
+       "price": 1099,
+       "MRP": 1999,
+       "discount": 1039,
+       "brand": "Instafab Plus",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Checked Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-11-585383-1679997545-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997550-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997556-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997561-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997566-5.jpg"
+        
+       ],
+       "price": 769,
+       "MRP": 1499,
+       "discount": 729,
+       "brand": "Campus Sutra",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Shirt",
+       "image" :"https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894016-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894022-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894032-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894048-7.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894043-6.jpg"
+       ],
+       "price": 1019,
+       "MRP": 1699,
+       "discount": 959,
+       "brand": "Campus Sutra",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Shirt",
+       "image" :"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070986-1.jpg",
+       "images":[
+  "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070991-2.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070996-3.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071002-4.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071017-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Red Floral Printed Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-red-floral-printed-shirt-585390-1680072225-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072231-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072236-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072241-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072247-5.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Striped Shirt",
+       "image" :"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071396-1.jpg",
+       "images":[
+  "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071401-2.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071406-3.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071412-4.jpg",
+  "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071417-5.jpg"
+       ],
+       "price": 824,
+       "MRP": 1499,
+       "discount": 779,
+       "brand": "Campus Sutra",
+       "fit": "",
+       "ratings": "5",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's White Awning Striped Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-white-awning-striped-shirt-581477-1677138733-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138738-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138744-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138749-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138754-5.jpg"
+       ],
+       "price": 807,
+       "MRP": 1499,
+       "discount": 759,
+       "brand": "7 Shores",
+       "fit": "",
+       "ratings": "5",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-grey-shirt-585411-1680071600-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071605-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071610-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071617-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071627-6.jpg"
+       ],
+       "price": 631,
+       "MRP": 1149,
+       "discount": 599,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Green Checked Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585400-1680070778-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070783-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070789-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070794-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070805-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-grey-shirt-585412-1680071359-1.JPG",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071364-2.JPG",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071369-3.JPG",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071375-4.JPG",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071391-7.JPG"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Cream Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-cream-shirt-585414-1680071638-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071644-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071649-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071654-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071665-6.jpg?tr=q-100"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's White Checked Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-white-checked-shirt-585403-1680071060-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071066-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071071-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071076-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071087-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Checked Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-585418-1680071321-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071327-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071332-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071342-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071353-7.jpg"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue All Over Printed Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-tie-dye-printed-shirt-585420-1680070665-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070671-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070676-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070681-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070687-5.jpg"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Checked Shirt",
+       "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-585415-1680071162-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071167-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071173-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071178-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071183-5.jpg"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's White Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585417-1680071536-1.JPG",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071542-2.JPG",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071547-3.JPG",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071552-4.JPG",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071557-5.JPG",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071568-7.JPG"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "ratings": "5",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue All Over Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-blue-printed-shirt-585402-1680071573-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071579-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071584-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071589-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071595-5.jpg"
+       ],
+       "price": 631,
+       "MRP": 1149,
+       "discount": 599,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Multicolor All Over Animal Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-multicolor-printed-shirt-585393-1680071205-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071210-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071215-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071221-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071226-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071231-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-grey-shirt-585406-1680071675-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071681-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071691-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071697-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071702-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071707-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black All Over Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-printed-shirt-585391-1680072225-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072231-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072241-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072247-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072252-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072257-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Lotus Pink Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-lotus-pink-checked-shirt-585408-1680070879-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070884-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070889-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070895-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070905-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070911-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-blue-shirt-585405-1680070703-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070708-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070714-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070719-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070730-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070735-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Green Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585409-1680071713-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071718-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071724-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071729-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071740-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071745-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Peacock Green Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-peacock-green-checked-shirt-585394-1680070916-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070922-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070927-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070932-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070943-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070948-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Maroon Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-maroon-shirt-585419-1680071023-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071028-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071034-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071039-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071044-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071049-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071055-7.jpg"
+       ],
+       "price": 539,
+       "MRP": 1199,
+       "discount": 509,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's White Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585416-1680071279-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071284-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071295-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071300-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071310-7.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071316-8.jpg"
+       ],
+       "price": 516,
+       "MRP": 1149,
+       "discount": 489,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-grey-shirt-585404-1680071433-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071444-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071449-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071455-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071460-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue Striped Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-blue-striped-shirt-585140-1679894202-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894207-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894213-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894218-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894228-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894233-7.jpg"
+       ],
+       "price": 824,
+       "MRP": 1499,
+       "discount": 779,
+       "brand": "Campus Sutra",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black All Over Animal Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-animal-printed-shirt-585396-1680071093-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071098-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071103-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071109-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071119-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071125-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Printed Slim Fit Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-printed-slim-fit-shirt-587046-1680783012-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783017-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783023-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783028-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783034-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783045-7.jpg"
+       ],
+       "price": 799,
+       "MRP": 1999,
+       "discount": 759,
+       "brand": "Rigo",
+       "fit": "SLIM FIT",
+       "cotton": "BREATHABLE & STRONG",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Slim Fit Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-self-designed-slim-fit-shirt-587051-1680783484-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783489-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783495-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783500-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783511-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783516-7.jpg"
+       ],
+       "price": 764,
+       "MRP": 1699,
+       "discount": 719,
+       "brand": "Rigo",
+       "fit": "SLIM FIT",
+       "cotton": "100% COTTON",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Brown Paisley Printed Slim Fit Shirt 1",
+       "image":"https://images.bewakoof.com/t640/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783094-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783099-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783110-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783120-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783131-8.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783126-7.jpg"
+       ],
+       "price": 799,
+       "MRP": 1999,
+       "discount": 759,
+       "brand": "Rigo",
+       "fit": "SLIM FIT",
+       "cotton": "BREATHABLE & STRONG",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Yellow Marble Printed Slim Fit Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783267-1.jpg",
+       "images":[
+       "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783272-2.jpg",
+       "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783278-3.jpg",
+       "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783283-4.jpg",
+       "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783288-5.jpg",
+       "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783299-7.jpg"
+       ],
+       "price": 799,
+       "MRP": 1999,
+       "discount": 759,
+       "brand": "Rigo",
+       "fit": "SLIM FIT",
+       "cotton": "BREATHABLE & STRONG",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Paisley Printed Slim Fit Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783137-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783148-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783153-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783158-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783175-8.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783169-7.jpg"
+       ],
+       "price": 799,
+       "MRP": 1999,
+       "discount": 759,
+       "brand": "Rigo",
+       "fit": "SLIM FIT",
+       "cotton": "BREATHABLE & STRONG",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Brown All Over Animal Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-brown-animal-printed-shirt-585398-1680072225-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072231-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072247-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072252-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072225-1.jpg",
+        "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072257-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Green Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585392-1680071130-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071135-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071146-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071152-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071157-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Grey Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-grey-checked-shirt-585401-1680071466-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071471-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071482-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071487-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071492-6.jpg"
+  
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "ratings": "5",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-checked-shirt-585397-1680071242-1.JPG",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071247-2.JPG",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071253-3.JPG",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071258-4.JPG",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071268-6.JPG",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071274-7.JPG"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [36, 38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-shirt-585413-1680071396-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071406-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071412-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071417-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071422-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071428-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's White Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585389-1680070815-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070821-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070831-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070836-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070842-6.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Black Striped Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-striped-shirt-11-584816-1679388577-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388582-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388588-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388598-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388604-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388609-7.jpg"
+       ],
+       "price": 749,
+       "MRP": 1249,
+       "discount": 709,
+       "brand": "7 Shores",
+       "fit": "",
+       "size": [38, 40, 44]
+      },
+      {
+       "name": "Men's White Floral Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-white-floral-printed-shirt-584831-1679388796-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388801-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388807-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388812-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388817-5.jpg"
+       ],
+       "price": 749,
+       "MRP": 1349,
+       "discount": 709,
+       "brand": "7 Shores",
+       "fit": "",
+       "size": [36, 38, 40, 42, 44]
+      },
+      {
+       "name": "Men's Blue All Over Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-blue-printed-shirt-585388-1680072225-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072236-3.jpg",
+        "https://images.bewakoof.com/original/men-s-orange-tape-shirt-317831-1675057123-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072247-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072252-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072257-7.jpg"
+       ],
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [36, 38, 40, 44]
+      },
+      {
+       "name": "Men's Black Balanced Aztec Ethnic Motif Printed Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139424-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139429-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139434-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139440-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139445-5.jpg"
+       ],
+       "price": 807,
+       "MRP": 2799,
+       "discount": 769,
+       "brand": "7 Shores",
+       "fit": "",
+       "size": [34, 38, 40, 42, 46]
+      },
+      {
+       "name": "Men's Black Checked Shirt",
+       "image":"https://images.bewakoof.com/t640/men-s-black-checked-shirt-585407-1680070986-1.jpg",
+       "images":[
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070991-2.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070996-3.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071002-4.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071007-5.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071012-6.jpg",
+        "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071017-7.jpg"
+       ],
+       
+       "price": 659,
+       "MRP": 1199,
+       "discount": 619,
+       "brand": "Vastrado",
+       "fit": "",
+       "size": [36, 38, 40, 42, 44]
+      }
+     ]
+  }
