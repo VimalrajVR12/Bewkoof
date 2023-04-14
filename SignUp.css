@@ -1,141 +1,175 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
 
-        body {
-            background-color: #fffdf5;
-            font-family:'Montserrat', sans-serif
+body {
+    background-image: linear-gradient(to top, rgba(240, 207, 190, 0.698), rgba(248, 248, 248, 0.93));
+    font-family:'Montserrat', sans-serif
 
-        }
+}
 
-        #total-signup-page {
+.main {
+    border: 1px solid red;
+    border: 1px solid transparent;
+    display: flex;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+    margin-top: 85px;
+}
 
-            width: 70%;
-            margin: auto;
-            height: 100vh;
-            display: flex;
-            background-color: #fffdf5;
+.signi {
+    /* border: 1px solid black; */
+    width: 40%;
+    height: auto;
+    padding: 5%;
+    padding-top: -100px;
+    margin-top: -30px;
+}
 
+.signi>img {
+    width: 80%;
+    margin-left: 10%;
+}
 
-        }
+form {
+    color: #333333;
+    width: 30%;
+    height: auto;
+    /* border: 1px solid blue; */
+    margin-left: 50px;
+    padding: 3% 10% 0% 10%;
+    text-align: left;
+    margin-top: -15px;
+    background-color: #fff;
+    /* position: relative */
+}
 
-        #total-signup-page>div {
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    font-family: montserrat-bold, sans-serif;
+}
 
-            flex: 1;
-            margin-top: 30px;
-            display: flex;
-            justify-content: center;
-            margin-top: 180px;
+h3 {
+    color: #333333;
+    margin-left: 10px;
+    margin-bottom: 35px;
+    margin-top: 15px;
+    font-family: montserrat-bold, sans-serif;
+    text-align: left;
+    font-size: 18px;
+    margin: 0 0 20px;
+    color: #333;
+}
 
+input {
+    width: 99%;
+    display: block;
+    padding: 20px 0px 0px;
 
+}
 
-        }
+button {
+    width: 100%;
+    height: 60px;
+    font-size: 20px;
+    color: white;
+    background-color: #989898;
+    border: transparent;
+    border-radius: 5px;
+}
 
-        #total-signup-page .left-signup img {
+.sign {
+    /* border: 1px solid red; */
+    margin: 10px;
+}
 
-            height: 470px;
-            margin: 30px auto;
-            box-sizing: border-box;
+#bar {
+    font-size: large;
+    text-align: left;
+    display: block;
+    border: 1px solid transparent;
+    width: 95%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #bcbcbc;
+    outline: none;
+    background: none;
+    box-shadow: none;
+    line-height: normal;
+}
 
+#nam {
+    font-size: large;
+    text-align: left;
+    display: block;
+    border: 1px solid transparent;
+    width: 95%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #bcbcbc;
+    outline: none;
+    background: none;
+    box-shadow: none;
+    line-height: normal;
+}
+#password {
+    font-size: large;
+    text-align: left;
+    display: block;
+    border: 1px solid transparent;
+    width: 95%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #bcbcbc;
+    outline: none;
+    background: none;
+    box-shadow: none;
+    line-height: normal;
+}
+#mbl {
+    font-size: large;
+    text-align: left;
+    display: block;
+    border: 1px solid transparent;
+    width: 95%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #bcbcbc;
+    outline: none;
+    background: none;
+    box-shadow: none;
+    line-height: normal;
+}
+#email {
+    font-size: large;
+    text-align: left;
+    display: block;
+    border: 1px solid transparent;
+    width: 95%;
+    margin-bottom: 0px;
+    padding: 10px;
+    background-color: white;
+    border-bottom: 1px solid #bcbcbc;
+    outline: none;
+    background: none;
+    box-shadow: none;
+    line-height: normal;
+}
+label {
+    font-size: 20px;
+    /* position: absolute; */
+    color: #766f6f ;
+}
 
+p {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
 
-
-
-        }
-
-        #total-signup-page .right-signup {
-
-            display: flex;
-            justify-content: center;
-
-        }
-
-        #total-signup-page .right-signup>div {
-
-            display: grid;
-            height: 75%;
-            width: 100%;
-            box-sizing: border-box;
-            background-color: white;
-            padding: 2% 10%;
-
-
-        }
-
-        /* #total-signup-page .right-signup>div h2,
-        h5,
-        input,
-        div,
-        button {} */
-
-        #total-signup-page .right-signup>div input {
-
-
-            height: 40px;
-            border: none;
-            border-bottom: 1px solid gray;
-            outline: none;
-
-border-color: rgb(255,246,204);
-        }
-
-        #total-signup-page .right-signup>div button {
-
-
-            width: 80%;
-            display: flex;
-            border: none;
-            margin: auto;
-            height: 50px;
-            text-align: center;
-            align-items: center;
-            justify-content: center;
-            border-radius: 5px;
-            color: white;
-            background-color: gray;
-            font-size: 20px;
-            margin-top: 20px;
-
-
-
-        }
-        .left-signup{
-            background-color: rgb(255,250,227);
-        }
-        .right-signup{
-           border-color:  rgb(255,255,255);
-
-        }
-
-        #checkbox-signup {
-
-
-            width: 15px;
-            height: 15px;
-            line-height: 1px;
-        }
-
-        .fullname {
-            position: absolute;
-            top: 290px;
-            color: gray;
-        }
-
-        .Mobile {
-            position: absolute;
-            top: 330px;
-            color: gray;
-        }
-
-
-        .email {
-            position: absolute;
-            top: 400px;
-            color: gray;
-        }
-
-       
-        .password {
-            position: absolute;
-            top: 450px;
-            color: gray;
-        }
-
-      
