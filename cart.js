@@ -21,6 +21,7 @@ cartbag=[
           strikedoffprice: 1440,
         },
     ]
+    // var cartbag = JSON.parse(localStorage.getItem("cart")) || [];
     var wish = JSON.parse(localStorage.getItem("Wishlist")) || [];
     var cupponarr = [];
     var finalpayment = [];
