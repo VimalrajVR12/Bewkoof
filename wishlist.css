@@ -129,7 +129,12 @@
     margin-bottom: 10px;
   }
 
-  @media only screen and (min-width:0px) and (max-width:380px) {
+  @media only screen and (min-width:0px) and (max-width:450px) {
+    .caintainerdiv {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+  @media only screen and (min-width:450px) and (max-width:900px) {
     .caintainerdiv {
       grid-template-columns: repeat(2, 1fr);
     }
