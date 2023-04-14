@@ -1,0 +1,103 @@
+#product_body{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+#product_body .hide{
+    display: none;
+}
+#product_body a{
+    text-decoration: none;
+    color: #b2b2b2;
+}
+#product_body #location{
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0px;
+}
+#product_body #main_page{
+    display: flex;
+    flex-direction: row;
+}
+
+#product_body #main_page #filters{
+    width: 25%;
+}
+#product_body #main_page #display_products{
+    width: 70%;
+}
+#product_body #main_page #display_products #sort_tab{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 5px;
+}
+#sort_tab #sort{
+    width: 160px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+#sort_tab #sort div:hover{
+    background-color: #eee;
+}
+#sort_tab #sort div{
+    padding: 10px;
+}
+
+/* Displaying Products */
+#display_products #products{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 10px;
+}
+/* #display_products #products .product .image{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+} */
+#display_products #products .product img{
+    width: 300px;
+}
+#display_products #products .product .product_info{
+    display: flex;
+    flex-direction: row;
+}
+#display_products #products .product .product_info .wishList{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+#display_products #products .product .product_info .details tr:first-child{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Rowdies', cursive;
+    font-size: 12px;
+    color: #4f5362;
+    text-transform: capitalize;
+}
+#display_products #products .product .product_info .details tr:nth-child(2){
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Montserrat', regular;
+    font-family: 'Rowdies', cursive;
+    font-size: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-weight: 100;
+    color: #4f5362
+}
+#display_products #products .product .product_info .details .price_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: -20px;
+    margin-top: -20px;
+}
+#display_products #pagination{
+    padding: 30px 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: -40%;
+}
