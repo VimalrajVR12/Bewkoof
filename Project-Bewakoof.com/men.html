@@ -5,9 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Men Products</title>
-    <link rel="stylesheet" href="../header.css">
-    <link rel="stylesheet" href="./menProducts.css">
-
+    <link rel="stylesheet" href="./Styles/header.css">
+    <link rel="stylesheet" href="./Styles/men.css">
+    
+    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Montserrat:wght@600&family=Rowdies&display=swap" rel="stylesheet">
+     -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Rowdies&display=swap" rel="stylesheet">
     <script src="https://kit.fontawesome.com/b48f583750.js" crossorigin="anonymous"></script>
 </head>
 <body>
@@ -17,8 +24,10 @@
     <br><br><br><br>
     <div id="product_body">
         <div id="location">
-        <a href="">Home</a>
-        <a href="menProducts.html">&emsp;/&emsp;Men Clothing</a>
+            <a href="index.html">Home</a>
+            <a href="">&emsp;/&emsp;Men Clothing</a>
+            <a href="">&emsp;/&emsp;Shirts</a>
+            <a href="menProducts.html">&emsp;/&emsp;Shirts for Men</a>
         </div>
         <h1>Men Clothing &nbsp;(&nbsp;<span id="total_products"></span>)</h1>
         <div id="main_page">
@@ -47,12 +56,17 @@
                 <div id="products">
                     
                 </div>
+                <div id="pagination">
+                    <button id="previous">Prev</button>
+                    <button id="next">Next</button>
+                </div>
             </div>
             </div>
         </div>
     </div>
-    
-    <script src="./menProducts.js" type="module"></script>
-    <script src="../header.js" type="module"></script>
+
+
+    <script src="./Scripts/men.js" type="module"></script>
+    <script src="./Scripts/headerFunctionalities.js" type="module"></script>
 </body>
 </html>

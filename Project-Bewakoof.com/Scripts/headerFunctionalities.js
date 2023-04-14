@@ -1,7 +1,9 @@
-import menCategories from "./Components/menCategories.js";
-import womenCategories from "./Components/womenCategories.js";
-import mobileCovers from "./Components/mobileCovers.js";
+import menCategories from "../Components/menCategories.js";
+import womenCategories from "../Components/womenCategories.js";
+import mobileCovers from "../Components/mobileCovers.js";
+import countrySelect from "../Components/country.js";
 
+// Categories Function
 let men = document.getElementById("men")
 let women = document.getElementById("women")
 let mobile = document.getElementById("mobile_covers")
@@ -19,7 +21,6 @@ mobile.addEventListener("mouseleave", timeOut);
 temp.addEventListener("mouseleave", () => { windowOpenTab = false; closeTab(); });
 
 function openTab(data){
-    clearTimeout();
     if(temp.className.includes("hide"))
         temp.classList.remove("hide")
     temp.innerHTML = "";
@@ -37,20 +38,16 @@ function timeOut(){
     setTimeout(closeTab, 200);
 }
 
-
-import selectCountry from "./Components/country.js";
-
+// Selecting Country Function
 let country = document.getElementById("select_country");
 let hide = document.getElementById("country")
 
 country.addEventListener("mouseover", () => { 
     hide.classList.toggle("hide");
-    hide.innerHTML = selectCountry();
+    hide.innerHTML = countrySelect();
 });
 
-
-
-
+// Login User DropDown Details
 let user = document.querySelector(".fa-user")
 let userBox = document.getElementById("users")
 let openPopup = false;
@@ -64,7 +61,7 @@ userBox.addEventListener("mouseleave", () => { openPopup = false; closePopup(); 
 function displayPopup(){
     openPopup = true;
     userBox.classList.remove("hide")
-    // clearTimeout();
+    clearTimeout();
 }
 
 function closePopup(){
