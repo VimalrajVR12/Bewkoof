@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="icon" href="https://images.bewakoof.com/web/favicon-1635856217.png" type="image/x-icon">
+
+    <title>Online Fashion Shopping for Men, Women, Accessories - Bewakoof.com</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        font-family:'Montserrat', sans-serif;
+        background-color: rgb(237, 230, 211);
+        
+    }
+
+    .otp-container {
+        max-width: 800px;
+        background-color:rgb(255,250,229)
+;
+        height: 600px;
+        margin: 50px auto;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 0 5px #ccc;
+    }
+
+    h2 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+
+    .phone {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .sent {
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+    .number {
+        font-size: 18px;
+        margin-top: 0;
+        margin-bottom: 20px;
+        color: #1e90ff;
+    }
+
+    .input-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+        width: 150px;
+        padding: 10px;
+        margin-right: 10px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    h5 {
+        background-color: transparent;
+        border: none;
+        font-size: 14px;
+        color: rgb(123, 143, 143);
+        cursor: pointer;
+    }
+
+    .login-btn {
+        display: block;
+        width: 473px;
+        height: 50px;
+        padding: 10px;
+        background-color: rgb(152, 152, 152);
+        color: #fff;
+        font-size: 16px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 10px;
+    }
+
+    button {
+        padding: 10px;
+        font-size: 1.2rem;
+        color: #fff;
+        background-color: rgb(86,167,164);
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.2s ease-in-out;
+        margin-top: 10pxs;
+    }
+
+    input[type="tel"] {
+        padding: 10px;
+        font-size: 1.2rem;
+        border-radius: 5px;
+        border: none;
+        border: 1px solid #ddd;
+        background-color: #f9f9f9;
+        outline: none;
+    }
+
+    /* Disable input when not needed */
+
+    input[disabled] {
+        background-color: #eee;
+    }
+</style>
+
+<body>
+    <div class="otp-container">
+        <h2>Verify with OTP</h2>
+
+        <p class="sent">Sent to</p>
+        <p class="number">+91 9579521604</p>
+
+        <h4 style="text-align: center; color: rgb(152,152,152);">Enter OTP</h4>
+
+        <div class="form-group">
+
+            <input type="tel" id="otp" name="otp" required disabled />
+        </div>
+        <div class="form-group">
+            <button style="margin: 10px;" type="button" id="send-otp">Send OTP</button>
+        </div>
+        <div class="form-group">
+            <button style="margin-top: 10px; width:400px; height: 50px;padding: 10px; background-color: rgb(152,152,152); " type="submit" id="submit-otp" disabled>Login</button><br><br>
+        </div>
+
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
+<script>const otpInput = document.getElementById("otp");
+    const sendOtpButton = document.getElementById("send-otp");
+    const submitOtpButton = document.getElementById("submit-otp");
+    
+    // Function to generate random 6-digit OTP
+    function generateOTP() {
+      const digits = "0123456789";
+      let OTP = "";
+      for (let i = 0; i < 4; i++) {
+        OTP += digits[Math.floor(Math.random() * 10)];
+      }
+      return OTP;
+    }
+    
+    sendOtpButton.addEventListener("click", () => {
+      // Generate and display OTP
+      const OTP = generateOTP();
+      alert(`Your OTP is ${OTP}`);
+      otpInput.value = OTP;
+    
+      // Enable OTP input and submit button
+      otpInput.disabled = false;
+      submitOtpButton.disabled = false;
+    });
+    
+    submitOtpButton.addEventListener("click", (e) => {
+      e.preventDefault();
+    
+      const otp = otpInput.value.trim();
+    
+      // Check if OTP is valid
+      if (/^\d{4}$/.test(otp)) {
+        alert("LOGIN successfully!");
+        window.location.href = "home.html"
+        // Do something else on successful verification
+      } else {
+              alert("Wrong OTP!")
+      }
+    });
+    </script>
+  

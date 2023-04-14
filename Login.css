@@ -1,0 +1,205 @@
+#Login_page{
+    display: flex;
+    margin-top: 80px;
+    gap: 100px;
+    font-family:'Montserrat', sans-serif
+
+}
+#first_div{
+    /* border: red 1px solid ; */
+    margin-top: 10px;
+
+}
+#head{
+    font-family:'Montserrat', sans-serif , bold;
+    letter-spacing: 1px;
+    line-height: 1.33;
+    font-weight:bold ;
+    text-align: center;
+    font-size: 30px;
+    color: #000;
+    padding-bottom: 28px;
+    margin-top: 0px;
+    margin-bottom: 50px;
+   
+    
+}
+#img_box{
+    padding: 30px 30px;
+    width: 100%;
+    background-image: linear-gradient(0deg,#fff4c4,#fff);
+} 
+#first_image{
+    width: 90%;
+    margin: auto;
+    padding: 30px 30px;   
+}
+#second_box{
+    width: 50%;
+}
+
+.worlds{
+    text-align: center;
+    text-rendering:auto;
+    letter-spacing: 1px;
+}
+#second_box{
+    margin-top: 10px;
+}
+#right_line{
+    font-size: 24px;
+    color: rgb(51,51,51);
+    margin-top: 25px;
+}
+#Discount{
+    font-size: 18px;
+    color: #a0a0a0;
+    margin: 0 0 70px;
+    line-height: 1.44;
+}
+.ind_flag{
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+.num{
+    color: #a0a0a0;
+}
+.flag{
+    width: 20px;
+}
+#All_input{
+    border: 1px solid  #a0a0a0;
+    display: flex;
+    width: max-content;
+    margin: auto;
+    border-radius: 5px;
+    padding: 1px;
+    padding-left: 10px;
+}
+#mobile{
+    outline: none;
+    padding: 20px;
+    width: 300px;
+    font-size: 16px;
+    /* color:#a0a0a0; */
+    font-weight: bold;
+    color: #000;
+    border: none;
+}
+
+/*button*/
+#submit_btn{
+    width:max-content;
+    margin: auto;
+    margin-top: 20px;
+}
+#btn{
+    padding: 20px 158px;
+    border-radius: 5px;
+    outline: none;
+    letter-spacing: .5px;
+    background-color: rgb(66,162,162);
+    border: none;
+    color: #fff;
+    letter-spacing:1px;
+    font-family:'Montserrat', sans-serif;
+    font-size: 16px;
+}
+/* ........OR......... */
+
+hr{
+    border: none;
+    border-top: 2px solid #a0a0a0;
+    color: black;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+    margin-top: 50px;
+    width: 500px;
+}
+hr::after{
+    background: #fff;
+    content: 'OR';
+    padding: 0 4px;
+    position: relative;
+    top: -10px;
+}
+/* ....socials.... */
+#social{
+    margin-top: 40px;
+    text-align: center;
+    color: #000;
+    font-size: 12px;
+    font-family: montserrat-regular,sans-serif;
+    background: #fff;
+    padding: 0 7px;
+
+}
+button{
+    gap: 10px;
+    display: flex;
+   align-items: center;
+   cursor: pointer;
+}
+#email{
+    background: #fff;
+    color: rgb(93,92,92);
+    font-size: 16px;
+    height: 39px;
+    width: fit-content;
+    margin: auto;
+    border: 1px solid #aeaeae;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 0px 85px;
+}
+
+#media{
+    display: flex;
+    gap: 10px;
+    width: 100%;
+    margin:auto;
+    padding-left: 10px;
+    margin-top: 20px;
+    justify-content: center;
+}
+#google,#facebook{
+    background: #fff;
+    color: rgb(93,92,92);
+    font-size: 16px;
+    height: 39px;
+    border-radius: 5px;
+    font-weight: bold; 
+    padding: 0px 35px;
+    border: 1px solid rgb(93,92,92);
+    margin-right: 5px; 
+}
+#facebook{
+    margin-right: 20px;
+}
+
+/* Terms and Conditons */
+#terms{
+    width: 70%;
+    margin: auto;
+    font-size: 13px;
+    font-family: montserrat-regular,sans-serif;
+    color: #a0a0a0;
+    line-height: 20px;
+    margin-top: 30px;
+}
+.conditions{
+    text-decoration: none;
+    color: rgb(90,175,176);
+    font-weight: bold;
+}
+
+#mob_error{
+    color: #db3236;
+    margin-left: 155px;
+    margin-top: -10px;
+    font-family:'Montserrat', sans-serif;
+    font-style: italic;
+    font-size: 14px;
+}
