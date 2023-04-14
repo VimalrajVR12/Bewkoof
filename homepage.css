@@ -126,9 +126,7 @@ height: 100%;
 object-fit: cover;
 }
 
-.widgetSliderInner p {
-/* Add styles for the caption or text below the image */
-}
+
 
 
 
@@ -174,35 +172,8 @@ text-align: center;
 letter-spacing: 2px;
 
 }
-.container-one {
-display: flex;
-flex-wrap: wrap;
-gap: 0; /* Set the gap between containers to 0 */
-}
-.container-two {
-display: flex;
-flex-wrap: wrap;
-gap: 0; /* Set the gap between containers to 0 */
-}
 
-.row {
-display: flex;
-flex-wrap: nowrap;
-}
 
-.col {
-flex-basis: 253.2px;
-flex-grow: 0;
-flex-shrink: 0;
-height: 369.25px;
-/* Set padding between images and container */
-}
-
-.col > img {
-width: 100%; /* Adjust the width to your desired size */
-height: 100%; /* Adjust the height to your desired size */
-
-}
 
 .hot {
 font-size: 20px ;
@@ -239,44 +210,14 @@ align-items: center;
 /* adding responsiveness */
 
 /* For mobile devices */
-@media (max-width: 767px) {
-.container-one .row {
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-gap: 5px;
-}
-
-.container-one .col {
-flex-basis: calc(50% - 10px);
-margin-bottom: 5px;
-}
-
-.container-one .col img {
-width: 100%;
-height: auto;
-}
-}
-
-/* For tablet devices */
-@media (min-width: 768px) and (max-width: 1023px) {
-.container-one .row {
-display: flex;
-flex-wrap: wrap;
-justify-content: center;
-gap: 10px;
-}
-
-.container-one .col {
-flex-basis: calc(33.33% - 10px);
-margin-bottom: 10px;
-}
-
-.container-one .col img {
-width: 100%;
-height: auto;
-}
-}
+/* Default styles for desktop */
+.container {
+    max-width: 100%;
+  }
+  
+ 
+  
+ 
 
 /* For mobile devices */
 @media (max-width: 767px) {
@@ -322,4 +263,218 @@ margin-right: 0;
       .swiper-container {
           height: 350px; /* Reduce height for mobile devices */
       }
+  }
+
+
+  /* For screens with max width 767px (e.g., mobile devices) */
+@media (max-width: 767px) {
+    .container-one .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -10px;
+      margin-left: -10px;
+    }
+    @media screen and (max-width: 576px) {
+        .container-one .col {
+          flex-basis: calc(100% / 3);
+          padding: 5px; /* Adjust padding as needed */
+        }
+      }
+    .container-one img {
+      width: 137.333px;
+      height: 200.283px;
+    }
+  }
+  
+  /* For screens with min width 768px and max width 991px (e.g., tablets) */
+  @media (min-width: 768px) and (max-width: 991px) {
+    .container-one .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -15px;
+      margin-left: -15px;
+    }
+    .container-one .col {
+      flex-basis: calc(33.3333% - 30px);
+      margin: 15px;
+    }
+    .container-one img {
+      width: 137.333px;
+      height: 200.283px;
+    }
+  }
+  
+  /* For screens with min width 992px and max width 1199px (e.g., larger tablets) */
+  @media (min-width: 992px) and (max-width: 1199px) {
+    .container-one .row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -20px;
+      margin-left: -20px;
+    }
+    .container-one .col {
+      flex-basis: calc(25% - 40px);
+      margin: 20px;
+    }
+    .container-one img {
+      width: 137.333px;
+      height: 200.283px;
+    }
+  }
+  
+  /* For screens with min width 1200px (e.g., desktops) */
+  @media (min-width: 1200px) {
+    .container-one .row {
+      display: flex;
+      margin-right: -30px;
+      margin-left: -30px;
+    }
+   
+    .container-one img {
+      width: 253.2px;
+      height: 369.25px;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .image-container-top img,
+    .image-container-below img {
+      width: 412px;
+      height: 240.333px;
+      object-fit: cover;
+      display: block;
+      margin-bottom: 10px;
+    }
+  
+    .image-container-top,
+    .image-container-below {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  
+    .image-container-top img,
+    .image-container-below img {
+      flex-basis: 100%;
+    }
+  }
+
+  
+  
+  .row2 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* 6 columns with equal width for desktop */
+    gap: 10px; /* Gap between grid items */
+  }
+  
+  .col2 {
+    width: 100%; /* Full width for desktop */
+  }
+  
+  /* Media query for tablet */
+  @media only screen and (max-width: 768px) {
+    .row2 {
+      grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width on tablet */
+    }
+  }
+  
+  /* Media query for mobile */
+  @media only screen and (max-width: 516px) {
+    .row2 {
+      grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns with flexible width on mobile */
+      gap: 5px; /* Reduce gap between grid items on mobile */
+    }
+  
+    .col2 img {
+      width: 100%; /* Make images 100% width within their grid column on mobile */
+      height: auto; /* Allow images to maintain their aspect ratio */
+    }
+  }
+  
+  .row1 {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr); /* 6 columns with equal width for desktop */
+    gap: 10px; /* Gap between grid items */
+  }
+  
+  .col {
+    width: 100%; /* Full width for desktop */
+  }
+  
+  /* Media query for tablet */
+  @media only screen and (max-width: 768px) {
+    .row1 {
+      grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width on tablet */
+    }
+  }
+  
+  /* Media query for mobile */
+  @media only screen and (max-width: 516px) {
+    .row1 {
+      grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns with flexible width on mobile */
+      gap: 5px; /* Reduce gap between grid items on mobile */
+    }
+  
+    .col img {
+      width: 100%; /* Make images 100% width within their grid column on mobile */
+      height: auto; /* Allow images to maintain their aspect ratio */
+    }
+  }
+  
+  /* Hide the divs on desktop and tablet devices */
+@media only screen and (min-width: 769px) {
+    .mobile-only {
+      display: none;
+    }
+  }
+  
+  /* Show the divs on mobile devices */
+  @media only screen and (max-width: 768px) {
+    .mobile-only {
+      display: block;
+      width: 100%; /* Set width to 100% to make the divs fit properly on mobile screens */
+      box-sizing: border-box; /* Include padding and border in the width calculation */
+      padding: 0; /* Reset padding to 0 to remove any extra spacing */
+    }
+  
+    /* Set image sizes for the mobile-only divs */
+    .mobile-only img {
+      width: 100%; /* Set width to 100% to make the images fit properly on mobile screens */
+      height: auto; /* Set height to auto to maintain aspect ratio */
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    #below {
+        display: none;
+    }
+}
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+/* Add CSS styles for the swiper-slide */
+.swiper-slide {
+    width: 100%;
+    height: 100%;
+}
+
+
+#bottom {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px; /* Add margin as needed */
+  }
+  
+  /* CSS for the nested img elements */
+  #bottom img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain the aspect ratio of the image */
+  }
+
+  /* CSS for the nested img elements */
+.container-two img {
+    max-width: 100%; /* Ensure the image doesn't exceed its container */
+    height: auto; /* Maintain the aspect ratio of the image */
   }
