@@ -111,5 +111,5 @@ codButton.addEventListener("click", () => {
 });
 
 function otp(){
-  window.location.href="otp.html"
+  window.location.href="payment-otp.html"
 }
