@@ -48,7 +48,7 @@
                         This transaction you make is totally secure. We don't save your
                         CVV number.
                     </p>
-                    <button id="card-pay-now-button">PAY NOW</button>
+                    <button id="card-pay-now-button" onclick="otp()">PAY NOW</button>
                     </div>
                 <div id = "payment-wallet">
                     <div>
@@ -92,47 +92,50 @@
                             
                             
                         </div>
-                        <button>VERIFY</button>
-                </div>
+                        <button onclick="otp()">VERIFY</button>
+                    </div>
                 <div id="payment-net-banking">
                     <div>
                         <img src="https://images.bewakoof.com/web/icici-1556185960.png" alt="">
                         <p>ICICI</p>
                         <input type="radio">
+                    </div>
+                    <div>
+                            <img src="https://images.bewakoof.com/web/axis-1556185962.png" alt="">
+                            <p>Axis</p>     
+                            <input type="radio">             
+                    </div>
+                    <div>
+                            <img src="https://images.bewakoof.com/web/sbi-1556185961.png" alt="">          
+                            <p>SBI</p>                   
+                            <input type="radio">               
+                    </div>
+                    <div>             
+                            <img src="https://images.bewakoof.com/web/hdfc-1556185961.png" alt="">            
+                            <p>HDFC</p>          
+                            <input type="radio">                 
+                    </div>
+                    <div>                
+                            <img src="https://images.bewakoof.com/web/kotak-1556185967.png" alt="">             
+                            <p>Kotak</p>                  
+                            <input type="radio">                   
+                    </div>
+                    <div>                
+                        <img src="https://images.bewakoof.com/web/other-bank-icon-1600258256.png" alt="">             
+                        <p>Others</p>                  
+                        <button id = "payment-net-other-arrow" onclick="otp()">∟</button>
+                    </div>
+                    <button onclick="otp()">Pay</button>
+                    <p>You will be redirected to the banks website to complete the payment process.</p>
                 </div>
-                <div>
-                        <img src="https://images.bewakoof.com/web/axis-1556185962.png" alt="">
-                        <p>Axis</p>     
-                        <input type="radio">             
+                <div id="payment-cod">
+                    <p>Cash handling charges are applicable</p>
+                    <button id="cod-price" onclick="otp()">Pay</button>
                 </div>
-                <div>
-                        <img src="https://images.bewakoof.com/web/sbi-1556185961.png" alt="">          
-                        <p>SBI</p>                   
-                        <input type="radio">               
-                </div>
-                <div>             
-                        <img src="https://images.bewakoof.com/web/hdfc-1556185961.png" alt="">            
-                        <p>HDFC</p>          
-                        <input type="radio">                 
-                </div>
-                <div>                
-                        <img src="https://images.bewakoof.com/web/kotak-1556185967.png" alt="">             
-                        <p>Kotak</p>                  
-                        <input type="radio">                   
-                </div>
-                <div>                
-                    <img src="https://images.bewakoof.com/web/other-bank-icon-1600258256.png" alt="">             
-                    <p>Others</p>                  
-                    <button id = "payment-net-other-arrow">∟</button>                 
             </div>
-            <p>You will be redirected to the banks website to complete the payment process.</p>
-                </div>
-            </div>
-            <hr>
-            <div>
-                
-            </div>
+            
         </div>
     </div>
   </body>
 </html>
+<script src="payment.js"></script>
