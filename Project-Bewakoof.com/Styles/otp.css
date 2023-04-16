@@ -1,0 +1,112 @@
+.otp-container {
+    margin: 0;
+    padding: 0;
+    font-family:'Montserrat', sans-serif;
+    background-color: rgb(237, 230, 211);
+    
+}
+
+.otp-container {
+    max-width: 800px;
+    background-color:rgb(255,250,229)
+;
+    height: 600px;
+    margin: 50px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.phone {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.sent {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.number {
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #1e90ff;
+}
+
+.input-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+input[type="text"] {
+    width: 150px;
+    padding: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+h5 {
+    background-color: transparent;
+    border: none;
+    font-size: 14px;
+    color: rgb(123, 143, 143);
+    cursor: pointer;
+}
+
+.login-btn {
+    display: block;
+    width: 473px;
+    height: 50px;
+    padding: 10px;
+    background-color: rgb(152, 152, 152);
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: rgb(86,167,164);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+    margin-top: 10pxs;
+}
+
+input[type="tel"] {
+    padding: 10px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    border: none;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    outline: none;
+}
+
+/* Disable input when not needed */
+
+input[disabled] {
+    background-color: #eee;
+}

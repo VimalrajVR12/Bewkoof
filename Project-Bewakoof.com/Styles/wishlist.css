@@ -1,0 +1,160 @@
+* {
+    font-family: roboto,Arial, Helvetica,  sans-serif,YT Sans;
+  }
+.emptyarrdiv {
+    width: 38%;
+    margin: 30px auto;
+    text-align: center;
+  }
+
+  #emptycart {
+    width: 150px;
+  }
+
+  #emptybagdiv {
+    border-bottom: 1px solid rgb(197, 197, 197);
+  }
+
+  #para {
+    font-size: 20px;
+    margin: 0;
+    color: rgb(105, 105, 105);
+  }
+
+  #para2 {
+    font-size: 16px;
+    margin-top: 20px;
+    color: rgb(105, 105, 105);
+  }
+  .button {
+    padding: 10px;
+    font-size: 20px;
+    border: 2px solid rgb(8, 226, 215);
+    border-radius: 5px;
+    background:  rgb(8, 226, 215);
+    display: inline-block;
+    margin: 15px 0px 25px 0px;
+    color:white;
+    text-decoration: none;
+  }
+
+  #item button {
+    width: 90%;
+    padding: 8px;
+    border: 2px solid rgb(8, 226, 215);
+    border-radius: 5px;
+    background:  rgb(8, 226, 215);
+    /* display: inline-block; */
+    /* margin: 30px 0px 30px 0px; */
+    color:white;
+    cursor: pointer;
+
+  }
+  #item button:hover{
+    background-color:  rgb(4, 91, 91);
+    border: none;
+  }
+  #emptyarrtable {
+    margin: -25px auto;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+
+  a {
+    color: rgb(8, 226, 215);
+  }
+
+  td {
+    padding: 8px 35px;
+    color: rgb(99, 99, 99);
+  }
+
+  .caintainerdiv {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    text-align: center;
+    width: 75%;
+     margin: auto;
+  }
+  h4{
+    margin-top: 2px;
+    margin-bottom: 10px;
+  }
+
+  #item {
+    position: relative;
+    border: 1px solid rgb(227, 221, 221);
+  }
+
+  #item>span {
+    padding-right: 1em;
+    font-weight: 800;
+  }
+
+  #savediv p{
+    margin-top: 7px;
+    margin-bottom: 10px;
+  }
+
+  #item>span~span{
+    text-decoration: line-through;
+    color: rgb(207, 189, 189);;
+  }
+
+  #item>img {
+    width: 100%;
+  }
+
+  #rem {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    font-size: 25px;
+    height: 30px;
+    width: 30px;
+    cursor: pointer;
+    text-align: center;
+    position: absolute;
+    top: 2%;
+    right: 3%;
+    background-color: rgb(255, 254, 254);
+  }
+  .hr{
+    border: 1px solid rgb(227, 221, 221);
+  }
+
+  #wish {
+    margin-left: 12.5%;
+  }
+  #btn{
+    margin-bottom: 10px;
+  }
+
+  @media only screen and (min-width:0px) and (max-width:450px) {
+    .caintainerdiv {
+      grid-template-columns: repeat(1, 1fr);
+    }
+  }
+  @media only screen and (min-width:450px) and (max-width:900px) {
+    .caintainerdiv {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  /*------------------------------------- Scrool Bar Design------------------------------------------------- */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(#3838389c, #1312127a);
+    border-radius: 6px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(#5ca3a6, #0051ff);
+  }
+
+  /*--------------------------------------- Scrool Bar Design End-------------------------------------------------- */

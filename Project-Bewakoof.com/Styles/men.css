@@ -17,11 +17,21 @@
 #product_body #main_page{
     display: flex;
     flex-direction: row;
+    column-gap: 10px;
 }
 
 #product_body #main_page #filters{
     width: 25%;
+    display: flex;
+    flex-direction: column;
 }
+#product_body #main_page #filters select{
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid #b2b2b2;
+    font-size: large;
+}
+
 #product_body #main_page #display_products{
     width: 70%;
 }
@@ -35,7 +45,6 @@
     width: 160px;
     padding: 10px;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
-
 }
 #sort_tab #sort div:hover{
     background-color: #eee;
@@ -49,6 +58,7 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     column-gap: 10px;
+    row-gap: 20px;
 }
 /* #display_products #products .product .image{
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
@@ -59,6 +69,7 @@
 #display_products #products .product .product_info{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
 }
 #display_products #products .product .product_info .wishList{
     padding: 10px;
@@ -67,33 +78,35 @@
     justify-content: flex-start;
 }
 #display_products #products .product .product_info .details tr:first-child{
-    font-family: 'Alfa Slab One', cursive;
+    /* font-family: 'Alfa Slab One', cursive; */
     font-family: 'Montserrat', sans-serif;
-    font-family: 'Rowdies', cursive;
+    /* font-family: 'Rowdies', cursive; */
     font-size: 12px;
     color: #4f5362;
     text-transform: capitalize;
 }
 #display_products #products .product .product_info .details tr:nth-child(2){
-    font-family: 'Alfa Slab One', cursive;
+    /* font-family: 'Alfa Slab One', cursive; */
     font-family: 'Montserrat', regular;
-    font-family: 'Rowdies', cursive;
+    /* font-family: 'Rowdies', cursive; */
     font-size: 10px;
     text-overflow: ellipsis;
     overflow: hidden;
     font-weight: 100;
-    color: #4f5362
+    color: #4f5362;
 }
 #display_products #products .product .product_info .details .price_div{
     display: flex;
     flex-direction: row;
     align-items: center;
-    
     font-size: 16px;
     font-weight: 100;
     margin-bottom: -20px;
     margin-top: -20px;
 }
+/* #display_products #products .product .product_info .details .fa-heart::after{
+    background-color: red;
+} */
 #display_products #pagination{
     padding: 30px 100px;
     display: flex;
@@ -101,3 +114,4 @@
     justify-content: space-between;
     margin-right: -40%;
 }
+

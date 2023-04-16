@@ -111,7 +111,8 @@ let rating = document.createElement("div")
 rating.setAttribute("id", "ratings");
 
 let value = document.createElement("p");
-value.innerHTML = `${Arr.ratings} <i class="fa-regular fa-star"></i>`;
+if(Arr.ratings !== undefined)
+    value.innerHTML = `${Arr.ratings} <i class="fa-regular fa-star"></i>`;
 
 rating.append(value);
 
@@ -123,34 +124,55 @@ priceDiv.setAttribute("id", "price_div");
 
 let finalPrice = document.createElement("p");
 finalPrice.textContent = "₹" + Arr.price;
+finalPrice.style.fontSize = "x-large"
 
 let MRP = document.createElement("p");
 MRP.textContent = "₹" + Arr.MRP;
+MRP.style.textIndent = "10px"
 MRP.style.textDecoration = "line-through";
+MRP.style.color = "#757575"
+MRP.style.fontWeight = "900"
 
 let offer = document.createElement("h3");
 let discount = ((Arr.MRP - Arr.price)/Arr.MRP)*100;
+offer.style.textIndent = "10px"
 offer.textContent = `${Math.round(discount)}% OFF`;
+offer.style.color = "#00b852"
 
 priceDiv.append(finalPrice, MRP, offer);
 
 let staticInfo = document.createElement("p");
 staticInfo.textContent = `inclusive of all taxes`;
+staticInfo.style.color = "#757575"
+staticInfo.style.marginTop = "-20px"
 
 priceBox.append(priceDiv, staticInfo);
 
 let tribeContainer = document.createElement("div");
 tribeContainer.setAttribute("id", "tribe_container");
+tribeContainer.style.borderBottom = "2px solid #ececec"
+tribeContainer.style.borderTop = "2px solid #ececec"
+tribeContainer.style.padding = "20px 0"
 
 let tribeMsg = document.createElement("span");
 tribeMsg.setAttribute("class", "tribe_msg");
-tribeMsg.textContent = "TriBe members get an extra discount of " + "₹" + (Arr.price - Arr.discount) + " and FREE shipping.";
+tribeMsg.textContent = "TriBe members get an extra discount of "
+
+let tribeMsg1 = document.createElement("span");
+tribeMsg1.setAttribute("class", "tribe_msg");
+tribeMsg1.textContent = "₹" + (Arr.price - Arr.discount);
+tribeMsg1.style.fontWeight = "bolder"
+
+let tribeMsg2 = document.createElement("span");
+tribeMsg2.setAttribute("class", "tribe_msg");
+tribeMsg2.textContent = " and FREE shipping."
 
 let tribeLearn = document.createElement("span");
 tribeLearn.textContent = "Learn more";
+tribeLearn.style.color = "#6ab6b6"
 tribeLearn.classList = "learn_more";
 
-tribeContainer.append(tribeMsg, tribeLearn)
+tribeContainer.append(tribeMsg, tribeMsg1, tribeMsg2, tribeLearn)
 
 let size = document.createElement("div");
 size.classList = "size_block";
@@ -197,14 +219,44 @@ addBtns.classList = "add_buttons";
 
 let cartBtnDiv = document.createElement("div");
 cartBtnDiv.classList = "cart_button";
+let cartList = JSON.parse(localStorage.getItem("cartList")) || [];
+cartBtnDiv.addEventListener("click", () => {
+    console.log(Arr)
+    cartList.push(Arr)
+    localStorage.setItem("cartList", JSON.stringify(cartList));
+})
 
+let icon1 = document.createElement("i");
+icon1.innerHTML =   `<i class="fas fa-shopping-cart"></i>`;
 
+let btn1 = document.createElement("button");
+btn1.textContent = "ADD TO BAG";
+btn1.style.border = "none";
+btn1.style.backgroundColor = "transparent"
+
+cartBtnDiv.append(icon1, btn1)
 
 let wishBtnDiv = document.createElement("div");
 wishBtnDiv.classList = "wish_button";
+let wishList = JSON.parse(localStorage.getItem("wishList")) || [];
+wishBtnDiv.addEventListener("click", () => {
+    console.log(Arr)
+    wishList.push(Arr)
+    localStorage.setItem("wishList", JSON.stringify(wishList));
+})
 
+let icon2 = document.createElement("i");
+icon2.innerHTML =   `<i class="far fa-heart"></i>`;
+icon2.style.color = "#757575"
 
+let btn2 = document.createElement("button");
+btn2.textContent = "WISHLIST";
+btn2.style.border = "none";
+btn2.style.backgroundColor = "transparent"
+btn2.style.color = "#757575"
+btn2.style.fontWeight = "750"
 
+wishBtnDiv.append(icon2, btn2)
 addBtns.append(cartBtnDiv, wishBtnDiv);
 
 subMain.append(div1, prodName, rating, priceBox, tribeContainer, size, addBtns)

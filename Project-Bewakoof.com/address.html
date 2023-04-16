@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Add New Address</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Styles/address.css">
+  </head>
+  <body>
+    <h1>Add New Address</h1>
+    <form>
+      <label for="country">Country:</label>
+      <select id="country" name="country">
+        <option value="India">India</option>
+        <option value="USA">USA</option>
+        <option value="Canada">Canada</option>
+      </select>
+
+      <label for="full-name">Full Name:</label>
+      <input type="text" id="full-name" name="full-name" required>
+
+      <label for="mobile">Mobile Number:</label>
+      <input type="tel" id="mobile" name="mobile" pattern="[0-9]{10}" required>
+
+      <label for="pincode">Pincode:</label>
+      <input type="text" id="pincode" name="pincode" required>
+
+      <label for="city">City:</label>
+      <input type="text" id="city" name="city" required>
+
+      <label for="state">State:</label>
+      <input type="text" id="state" name="state" required>
+
+      <label for="flat">Flat No/Building:</label>
+      <input type="text" id="flat" name="flat" required>
+
+      <label for="area">Area/Locality:</label>
+      <input type="text" id="area" name="area" required>
+
+      <label for="landmark">Landmark:</label>
+      <input type="text" id="landmark" name="landmark">
+
+      <label for="address-type">Save Address As:</label>
+      <select id="address-type" name="address-type">
+        <option value="home">Home</option>
+        <option value="work">Work</option>
+        <option value="other">Other</option>
+      </select>
+
+      <div class="buttons">
+        <input type="submit" value="Save Address" onclick="location.href='payment.html'">
+        <button type="button" onclick="window.location.href='previous-page.html'">Cancel</button>
+      </div>
+
+    </form>
+  </body>
+</html>

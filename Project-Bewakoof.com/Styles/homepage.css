@@ -1,0 +1,481 @@
+
+#pb2-0-0 .widgetSliderWrapper .widgetImg {
+  height: 175px;
+  width: 125px;
+}
+#pb2-0-0 .widgetSliderWrapper p {
+  font-size: 11px;
+}
+
+.swiper-container {
+ position: relative;
+width: 100%;
+height: 532px; /* Set height to 720px for a fixed size */
+margin: 0 auto;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.swiper-wrapper {
+    display: flex;
+}
+
+.swiper-slide {
+    width: 532px; /* Set width to 720px for a fixed size */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 40px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #555050c7;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    border-radius: 20px;
+    
+}
+
+.swiper-button-next {
+    right: 10px;
+}
+
+.swiper-button-prev {
+    left: 10px;
+}
+
+
+
+#pb2-0 {
+padding: 0;
+}
+
+#pb2-0-0 .widgetSliderWrapper .widgetImg {
+height: 175px;
+width: 125px;
+}
+
+#pb2-0-0 .widgetSliderWrapper p {
+font-size: 11px;
+}
+
+#below {
+margin-top: 10px;
+}
+
+ #below img {
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+}
+
+.widgetSliderWrapper {
+
+
+width: 78%;
+overflow-x: auto;
+position: relative; /* Changed from absolute to relative */
+left: 50%;
+transform: translateX(-50%);
+white-space: nowrap; /* Added to prevent line breaks */
+
+}
+
+.widgetSliderList {
+display: flex;
+list-style-type: none;
+padding: 0;
+margin: 0;
+}
+
+.widgetSliderItem {
+flex: 0 0 auto;
+margin-right: 25px;
+}
+
+.widgetSliderInner {
+/* Add styles for the inner container */
+}
+
+.widgetImg {
+/* Add styles for the image container */
+width: 125px;
+height: 173.917px;
+overflow: hidden;
+}
+
+.widgetImg img {
+max-width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+
+
+
+
+.text {
+color: black; /* or any other default text color */
+}
+
+/* Styles for selected text */
+::selection {
+background-color: #fdd835;
+color: white;
+}
+.text {
+font-family: montserrat;
+font-size: 11px;
+text-align: center;
+font-weight: 700;
+}
+#mid {
+font-family: montserrat;
+font-size: 20px;
+text-align: center;
+font-weight: 700;
+letter-spacing: 2px;
+}
+.image-container{
+display: flex;
+}
+.image-container-top {
+display: flex;
+/* Set height to 100vh to take up full height of viewport */
+}
+
+.image-container img {
+flex: 1; /* Set flex to 1 to evenly distribute images within the container */
+}
+
+#trend {
+font-size: 20px ;
+font-family: montserrat ;
+font-weight: 700;
+text-align: center;
+letter-spacing: 2px;
+
+}
+
+
+
+.hot {
+font-size: 20px ;
+font-family: montserrat ;
+font-weight: 700;
+text-align: center;
+letter-spacing: 2px;
+}
+
+
+.image-container-top > img{
+height: 437.267;
+width: 749.6px;
+margin-right: 10px;
+}
+
+.image-container-below{
+display: flex;
+}
+
+.image-container-below > img{
+display: flex;
+height: 437.267;
+width: 749.6px;
+margin-right: 10px;
+margin-top: 12px;
+}
+.row{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/* adding responsiveness */
+
+/* For mobile devices */
+/* Default styles for desktop */
+.container {
+  max-width: 100%;
+}
+
+
+
+
+
+/* For mobile devices */
+@media (max-width: 767px) {
+.image-container {
+display: flex;
+flex-wrap: nowrap;
+overflow-x: auto;
+scrollbar-width: none;
+-ms-overflow-style: none;
+}
+
+.image-container::-webkit-scrollbar {
+display: none;
+}
+
+.image-container img {
+flex: 0 0 auto;
+width: 50%;
+height: auto;
+margin-right: 0;
+}
+}
+
+/* For tablet devices */
+@media (min-width: 768px) and (max-width: 1023px) {
+.image-container {
+display: flex;
+flex-wrap: nowrap;
+}
+
+.image-container img {
+flex: 0 0 auto;
+width: 50%;
+height: auto;
+margin-right: 0;
+}
+}
+
+
+
+/* Media queries for mobile responsiveness */
+@media (max-width: 768px) {
+    .swiper-container {
+        height: 350px; /* Reduce height for mobile devices */
+    }
+}
+
+
+/* For screens with max width 767px (e.g., mobile devices) */
+@media (max-width: 767px) {
+  .container-one .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: -10px;
+  }
+  @media screen and (max-width: 576px) {
+      .container-one .col {
+        flex-basis: calc(100% / 3);
+        padding: 5px; /* Adjust padding as needed */
+      }
+    }
+  .container-one img {
+    width: 137.333px;
+    height: 200.283px;
+  }
+}
+
+/* For screens with min width 768px and max width 991px (e.g., tablets) */
+@media (min-width: 768px) and (max-width: 991px) {
+  .container-one .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .container-one .col {
+    flex-basis: calc(33.3333% - 30px);
+    margin: 15px;
+  }
+  .container-one img {
+    width: 137.333px;
+    height: 200.283px;
+  }
+}
+
+/* For screens with min width 992px and max width 1199px (e.g., larger tablets) */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .container-one .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -20px;
+    margin-left: -20px;
+  }
+  .container-one .col {
+    flex-basis: calc(25% - 40px);
+    margin: 20px;
+  }
+  .container-one img {
+    width: 137.333px;
+    height: 200.283px;
+  }
+}
+
+/* For screens with min width 1200px (e.g., desktops) */
+@media (min-width: 1200px) {
+  .container-one .row {
+    display: flex;
+    margin-right: -30px;
+    margin-left: -30px;
+  }
+ 
+  .container-one img {
+    width: 253.2px;
+    height: 369.25px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .image-container-top img,
+  .image-container-below img {
+    width: 412px;
+    height: 240.333px;
+    object-fit: cover;
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  .image-container-top,
+  .image-container-below {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .image-container-top img,
+  .image-container-below img {
+    flex-basis: 100%;
+  }
+}
+
+
+
+.row2 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 6 columns with equal width for desktop */
+  gap: 10px; /* Gap between grid items */
+}
+
+.col2 {
+  width: 100%; /* Full width for desktop */
+}
+
+/* Media query for tablet */
+@media only screen and (max-width: 768px) {
+  .row2 {
+    grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width on tablet */
+  }
+}
+
+/* Media query for mobile */
+@media only screen and (max-width: 516px) {
+  .row2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns with flexible width on mobile */
+    gap: 5px; /* Reduce gap between grid items on mobile */
+  }
+
+  .col2 img {
+    width: 100%; /* Make images 100% width within their grid column on mobile */
+    height: auto; /* Allow images to maintain their aspect ratio */
+  }
+}
+
+.row1 {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr); /* 6 columns with equal width for desktop */
+  gap: 10px; /* Gap between grid items */
+}
+
+.col {
+  width: 100%; /* Full width for desktop */
+}
+
+/* Media query for tablet */
+@media only screen and (max-width: 768px) {
+  .row1 {
+    grid-template-columns: repeat(4, 1fr); /* 4 columns with equal width on tablet */
+  }
+}
+
+/* Media query for mobile */
+@media only screen and (max-width: 516px) {
+  .row1 {
+    grid-template-columns: repeat(2, minmax(0, 1fr)); /* 2 columns with flexible width on mobile */
+    gap: 5px; /* Reduce gap between grid items on mobile */
+  }
+
+  .col img {
+    width: 100%; /* Make images 100% width within their grid column on mobile */
+    height: auto; /* Allow images to maintain their aspect ratio */
+  }
+}
+
+/* Hide the divs on desktop and tablet devices */
+@media only screen and (min-width: 769px) {
+  .mobile-only {
+    display: none;
+  }
+}
+
+/* Show the divs on mobile devices */
+@media only screen and (max-width: 768px) {
+  .mobile-only {
+    display: block;
+    width: 100%; /* Set width to 100% to make the divs fit properly on mobile screens */
+    box-sizing: border-box; /* Include padding and border in the width calculation */
+    padding: 0; /* Reset padding to 0 to remove any extra spacing */
+  }
+
+  /* Set image sizes for the mobile-only divs */
+  .mobile-only img {
+    width: 100%; /* Set width to 100% to make the images fit properly on mobile screens */
+    height: auto; /* Set height to auto to maintain aspect ratio */
+  }
+}
+
+@media screen and (max-width: 767px) {
+  #below {
+      display: none;
+  }
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+
+/* Add CSS styles for the swiper-slide */
+.swiper-slide {
+  width: 100%;
+  height: 100%;
+}
+
+
+#bottom {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px; /* Add margin as needed */
+}
+
+/* CSS for the nested img elements */
+#bottom img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+}
+
+/* CSS for the nested img elements */
+.container-two img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container */
+  height: auto; /* Maintain the aspect ratio of the image */
+}

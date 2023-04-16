@@ -1,5 +1,5 @@
 {
-  "menShirts": [
+  "kidsShirts": [
     {
      "name": "Men's Orange Tape Shirt",
      "image" :"https://images.bewakoof.com/t640/men-s-orange-tape-shirt-317831-1675057118-1.jpg",
@@ -15,7 +15,7 @@
      "MRP": 1499,
      "discount": 509,
      "brand": "Bewakoof®",
-     "fit": "",
+     "fit": "SLIM FIT",
      "ratings": "4.6",
      "size": [38, 40, 42, 44]
     },
@@ -32,7 +32,7 @@
      "MRP": 1499,
      "discount": 639,
      "brand": "Rigo",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -42,7 +42,7 @@
      "MRP": 1999,
      "discount": 1039,
      "brand": "Instafab Plus",
-     "fit": "",
+     "fit": "Regular Fit",
      "cotton": "100% COTTON",
      "size": [38, 40, 42, 44]
     },
@@ -53,7 +53,7 @@
      "MRP": 2499,
      "discount": 1179,
      "brand": "Instafab Plus",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "cotton": "100% COTTON",
      "size": [38, 40, 42, 44]
     },
@@ -64,7 +64,7 @@
      "MRP": 1999,
      "discount": 1039,
      "brand": "Instafab Plus",
-     "fit": "",
+     "fit": "Oversized Fit",
      "cotton": "100% COTTON",
      "size": [38, 40, 42, 44]
     },
@@ -75,7 +75,7 @@
      "MRP": 1999,
      "discount": 1039,
      "brand": "Instafab Plus",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -85,7 +85,7 @@
      "MRP": 1499,
      "discount": 729,
      "brand": "Campus Sutra",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -95,7 +95,7 @@
      "MRP": 1699,
      "discount": 959,
      "brand": "Campus Sutra",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -105,7 +105,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -115,7 +115,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -125,7 +125,7 @@
      "MRP": 1499,
      "discount": 779,
      "brand": "Campus Sutra",
-     "fit": "",
+     "fit": "SLIM FIT",
      "ratings": "5",
      "size": [38, 40, 42, 44]
     },
@@ -136,7 +136,7 @@
      "MRP": 1499,
      "discount": 759,
      "brand": "7 Shores",
-     "fit": "",
+     "fit": "Oversized Fit",
      "ratings": "5",
      "size": [38, 40, 42, 44]
     },
@@ -147,7 +147,7 @@
      "MRP": 1149,
      "discount": 599,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -157,7 +157,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -167,7 +167,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -177,7 +177,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -187,7 +187,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -197,7 +197,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -207,7 +207,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -217,7 +217,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -227,7 +227,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "ratings": "5",
      "size": [38, 40, 42, 44]
     },
@@ -238,7 +238,7 @@
      "MRP": 1149,
      "discount": 599,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -248,7 +248,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -258,7 +258,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -268,7 +268,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -278,7 +278,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -288,7 +288,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -298,7 +298,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -308,7 +308,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -318,7 +318,7 @@
      "MRP": 1199,
      "discount": 509,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
      "size": [38, 40, 42, 44]
     },
     {
@@ -328,7 +328,7 @@
      "MRP": 1149,
      "discount": 489,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -338,7 +338,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -348,7 +348,7 @@
      "MRP": 1499,
      "discount": 779,
      "brand": "Campus Sutra",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -358,7 +358,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -423,7 +423,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -433,7 +433,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -443,7 +443,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "ratings": "5",
      "size": [38, 40, 42, 44]
     },
@@ -454,7 +454,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [36, 38, 40, 42, 44]
     },
     {
@@ -464,7 +464,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -474,7 +474,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [38, 40, 42, 44]
     },
     {
@@ -484,7 +484,7 @@
      "MRP": 1249,
      "discount": 709,
      "brand": "7 Shores",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [38, 40, 44]
     },
     {
@@ -494,7 +494,7 @@
      "MRP": 1349,
      "discount": 709,
      "brand": "7 Shores",
-     "fit": "",
+     "fit": "Relaxed Fit",
      "size": [36, 38, 40, 42, 44]
     },
     {
@@ -504,7 +504,7 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "Oversized Fit",
      "size": [36, 38, 40, 44]
     },
     {
@@ -514,7 +514,7 @@
      "MRP": 2799,
      "discount": 769,
      "brand": "7 Shores",
-     "fit": "",
+     "fit": "Regular Fit",
      "size": [34, 38, 40, 42, 46]
     },
     {
@@ -524,7 +524,1606 @@
      "MRP": 1199,
      "discount": 619,
      "brand": "Vastrado",
-     "fit": "",
+     "fit": "SLIM FIT",
+     "size": [36, 38, 40, 42, 44]
+    }
+   ],
+
+   "womenTshirts": [
+    {
+     "name": "Women's Green Move On Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456382-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456382-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456388-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456393-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456398-4.jpg"
+     ],
+     "price": 449,
+     "MRP": 999,
+     "discount": 409,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Black Slim Fit T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664326-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664326-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664331-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664336-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664341-4.jpg"
+     ],
+     "price": 269,
+     "MRP": 999,
+     "discount": 249,
+     "fit": "SLIM FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Pink Move On Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-pink-move-on-graphic-printed-oversized-t-shirt-587143-1681220340-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-pink-move-on-graphic-printed-oversized-t-shirt-587143-1681220340-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pink-move-on-graphic-printed-oversized-t-shirt-587143-1681220346-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pink-move-on-graphic-printed-oversized-t-shirt-587143-1681220351-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pink-move-on-graphic-printed-oversized-t-shirt-587143-1681220362-5.jpg"
+     ],
+     "price": 499,
+     "MRP": 1499,
+     "discount": 459,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Purple Sunny Moooood Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219890-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219895-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219900-4.jpg"
+     ],
+     "price":399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Pink Party Planning Committee Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-oversized-t-shirt-33-585749-1681281639-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-oversized-t-shirt-33-585749-1681281639-1.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-oversized-t-shirt-33-585749-1681281644-2.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-oversized-t-shirt-33-585749-1681281649-3.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-oversized-t-shirt-33-585749-1681281660-5.jpg"
+     ],
+     "price": 599,
+     "MRP":1249,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "bewakoof x the office"
+    },
+    {
+     "name": "Women's Red Dunder Mifflin Chibi Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-dunder-mifflin-chibi-graphic-printed-oversized-t-shirt-585899-1681281330-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-dunder-mifflin-chibi-graphic-printed-oversized-t-shirt-585899-1681281330-1.jpg",
+      "https://images.bewakoof.com/t1080/women-dunder-mifflin-chibi-graphic-printed-oversized-t-shirt-585899-1681281335-2.jpg",
+      "https://images.bewakoof.com/t1080/women-dunder-mifflin-chibi-graphic-printed-oversized-t-shirt-585899-1681281341-3.jpg",
+      "https://images.bewakoof.com/t1080/women-dunder-mifflin-chibi-graphic-printed-oversized-t-shirt-585899-1681281346-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1249,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "bewakoof x the office"
+    },
+    {
+     "name": "Women's Blue The Moon Knight Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-blue-the-moon-knight-graphic-printed-boyfriend-t-shirt-587648-1681210277-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-blue-the-moon-knight-graphic-printed-boyfriend-t-shirt-587648-1681210277-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-blue-the-moon-knight-graphic-printed-boyfriend-t-shirt-587648-1681210283-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-blue-the-moon-knight-graphic-printed-boyfriend-t-shirt-587648-1681210288-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-blue-the-moon-knight-graphic-printed-boyfriend-t-shirt-587648-1681210293-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Red Move On Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-red-move-on-graphic-printed-oversized-t-shirt-587137-1681220217-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-red-move-on-graphic-printed-oversized-t-shirt-587137-1681220217-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-move-on-graphic-printed-oversized-t-shirt-587137-1681220222-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-move-on-graphic-printed-oversized-t-shirt-587137-1681220228-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-move-on-graphic-printed-oversized-t-shirt-587137-1681220238-5.jpg"
+     ],
+     "price": 999,
+     "MRP": 1499,
+     "discount": 459,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Red Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-red-boyfriend-t-shirt-170465-1658918677-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-red-boyfriend-t-shirt-170465-1658918677-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-boyfriend-t-shirt-170465-1658918683-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-boyfriend-t-shirt-170465-1658918688-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-boyfriend-t-shirt-170465-1658918693-4.jpg"
+     ],
+     "price": 356,
+     "MRP":999,
+     "discount": 329,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Black Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747741-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747746-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg"
+     ],
+     "price": 349,
+     "MRP": 999,
+     "discount": 319,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White Slim Fit T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748089-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748094-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748100-4.jpg"
+     ],
+     "price": 349,
+     "MRP": 999,
+     "discount": 279,
+     "fit": "SLIM FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White Sunny Moooood Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220018-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220018-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220023-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220029-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220034-4.jpg"
+     ],
+     "price": 499,
+     "MRP": 1299,
+     "discount": 419,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+      "name": "Women's Green Move On Graphic Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456382-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456382-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456388-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456393-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-green-move-on-graphic-printed-boyfriend-t-shirt-589330-1681456398-4.jpg"
+      ],
+      "price": 449,
+      "MRP": 999,
+      "discount": 409,
+      "fit": "BOYFRIEND FIT",
+      "cotton": "100% COTTON",
+      "brand": "peanuts x bewakoof"
+     },
+     {
+      "name": "Women's Black Slim Fit T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664326-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664326-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664331-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664336-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-slim-fit-t-shirt-232388-1665664341-4.jpg"
+      ],
+      "price": 269,
+      "MRP": 999,
+      "discount": 249,
+      "fit": "SLIM FIT",
+      "brand": "Bewakoof®"
+     },
+    {
+     "name": "Women's Black Lovely Billie Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-lovely-billie-graphic-printed-oversized-t-shirt-574028-1674562934-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-lovely-billie-graphic-printed-oversized-t-shirt-574028-1674562934-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lovely-billie-graphic-printed-oversized-t-shirt-574028-1674562940-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lovely-billie-graphic-printed-oversized-t-shirt-574028-1674562945-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lovely-billie-graphic-printed-oversized-t-shirt-574028-1674562950-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "OVERSIZED FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Black One With The Universe Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-one-with-the-universe-graphic-printed-boyfriend-t-shirt-483055-1655748960-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-one-with-the-universe-graphic-printed-boyfriend-t-shirt-483055-1655748960-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-one-with-the-universe-graphic-printed-boyfriend-t-shirt-483055-1655748965-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-one-with-the-universe-graphic-printed-boyfriend-t-shirt-483055-1655748970-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-one-with-the-universe-graphic-printed-boyfriend-t-shirt-483055-1655748975-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Purple Summer Nostalgia Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-purple-summer-nostalgia-graphic-printed-boyfriend-t-shirt-588929-1681217783-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-purple-summer-nostalgia-graphic-printed-boyfriend-t-shirt-588929-1681217783-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-summer-nostalgia-graphic-printed-boyfriend-t-shirt-588929-1681217794-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-summer-nostalgia-graphic-printed-boyfriend-t-shirt-588929-1681217794-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-purple-summer-nostalgia-graphic-printed-boyfriend-t-shirt-588929-1681217799-4.jpg"
+     ],
+     "price": 349,
+     "MRP": 999,
+     "discount": 279,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Red Dammit Jim Typography Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-dammit-jim-graphic-printed-oversized-t-shirt-32-585767-1681281495-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-dammit-jim-graphic-printed-oversized-t-shirt-32-585767-1681281495-1.jpg",
+      "https://images.bewakoof.com/t1080/women-dammit-jim-graphic-printed-oversized-t-shirt-32-585767-1681281500-2.jpg",
+      "https://images.bewakoof.com/t1080/women-dammit-jim-graphic-printed-oversized-t-shirt-32-585767-1681281506-3.jpg",
+      "https://images.bewakoof.com/t1080/women-dammit-jim-graphic-printed-oversized-t-shirt-32-585767-1681281511-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1249,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "bewakoof x the office"
+    },
+    {
+     "name": "Women's Black Get Going Snoopy Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/get-going-snoopy-boyfriend-t-shirt-516609-1657202693-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/get-going-snoopy-boyfriend-t-shirt-516609-1657202693-1.jpg",
+      "https://images.bewakoof.com/t1080/get-going-snoopy-boyfriend-t-shirt-516609-1657202699-2.jpg",
+      "https://images.bewakoof.com/t1080/get-going-snoopy-boyfriend-t-shirt-516609-1657202704-3.jpg",
+      "https://images.bewakoof.com/t1080/get-going-snoopy-boyfriend-t-shirt-516609-1657202709-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1249,
+     "discount": 549,
+     "fit": "BOYFRIEND FIT",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Green Party Planning Committee Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-boyfriend-t-shirt-30-585766-1681281298-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-boyfriend-t-shirt-30-585766-1681281298-1.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-boyfriend-t-shirt-30-585766-1681281303-2.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-boyfriend-t-shirt-30-585766-1681281309-3.jpg",
+      "https://images.bewakoof.com/t1080/women-party-planning-committee-graphic-printed-boyfriend-t-shirt-30-585766-1681281314-4.jpg"
+     ],
+     "price": 549,
+     "MRP": 1099,
+     "discount":509,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "bewakoof x the office"
+    },
+    {
+      "name": "Women's White Sunny Moooood Graphic Printed Oversized T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220018-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220018-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220023-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220029-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-sunny-moooood-graphic-printed-oversized-t-shirt-587152-1681220034-4.jpg"
+      ],
+      "price": 499,
+      "MRP": 1299,
+      "discount": 419,
+      "fit": "OVERSIZED FIT",
+      "cotton": "100% COTTON",
+      "brand": "Bewakoof®"
+     },
+    {
+     "name": "Women's Black Starboi Graphic Printed T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749782-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749782-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749787-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749793-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749798-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Black Been There Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751940-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751940-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751945-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751950-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-been-there-boyfriend-t-shirt-482681-1655751956-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1249,
+     "discount": 549,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+      "name": "Women's Black Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747741-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747746-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 319,
+      "fit": "BOYFRIEND FIT",
+      "brand": "Bewakoof®"
+     },
+     {
+      "name": "Women's White Slim Fit T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748089-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748094-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748100-4.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 279,
+      "fit": "SLIM FIT",
+      "brand": "Bewakoof®"
+     },
+    {
+     "name": "Women's Black Consistent Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-oversized-t-shirt-463568-1675063035-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-oversized-t-shirt-463568-1675063035-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-oversized-t-shirt-463568-1675063040-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-oversized-t-shirt-463568-1675063046-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-oversized-t-shirt-463568-1675063051-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1299,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+      "name": "Women's Purple Sunny Moooood Graphic Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219890-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219895-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219900-4.jpg"
+      ],
+      "price":399,
+      "MRP": 999,
+      "discount": 369,
+      "fit": "BOYFRIEND FIT",
+      "cotton": "100% COTTON",
+      "brand": "Bewakoof®"
+     },
+    {
+     "name": "Women's Black Hakuna Matata Typography Boyfriend Fit T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-hakuna-matata-typography-boyfriend-fit-t-shirt-480369-1655749313-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-hakuna-matata-typography-boyfriend-fit-t-shirt-480369-1655749313-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-hakuna-matata-typography-boyfriend-fit-t-shirt-480369-1655749319-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-hakuna-matata-typography-boyfriend-fit-t-shirt-480369-1655749324-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-hakuna-matata-typography-boyfriend-fit-t-shirt-480369-1655749329-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "disney x bewakoof merchandise"
+    },
+    {
+     "name": "Women's White MOTD Panda T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-motd-panda-t-shirt-479771-1655815714-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-motd-panda-t-shirt-479771-1655815714-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-motd-panda-t-shirt-479771-1655815719-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-motd-panda-t-shirt-479771-1655815724-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-motd-panda-t-shirt-479771-1655815729-4.jpg"
+     ],
+     "price": 599,
+     "MRP": 1299,
+     "discount": 549,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White One Of A Kind Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-one-of-a-kind-graphic-printed-boyfriend-t-shirt-289016-1680593055-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-one-of-a-kind-graphic-printed-boyfriend-t-shirt-289016-1680593055-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-one-of-a-kind-graphic-printed-boyfriend-t-shirt-289016-1680593060-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-one-of-a-kind-graphic-printed-boyfriend-t-shirt-289016-1680593066-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-one-of-a-kind-graphic-printed-boyfriend-t-shirt-289016-1680593071-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "disney x bewakoof merchandise"
+    },
+    {
+     "name": "Women's White Lola Striped Oversized T-shirt",
+     "price": 599,
+     "MRP": 1299,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "looney tunes x bewakoof merchandise"
+    },
+    {
+     "name": "Women's Red Move On Graphic Printed Plus Size Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-547958-1679924247-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-547958-1679924247-1.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-547958-1679924252-2.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-547958-1679924258-3.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-547958-1679924263-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "PLUS SIZE",
+     "cotton": "100% COTTON",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Red Summer Nostalgia Graphic Printed Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-red-summer-nostalgia-graphic-printed-oversized-t-shirt-587162-1681211852-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-red-summer-nostalgia-graphic-printed-oversized-t-shirt-587162-1681211852-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-summer-nostalgia-graphic-printed-oversized-t-shirt-587162-1681211857-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-summer-nostalgia-graphic-printed-oversized-t-shirt-587162-1681211862-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-summer-nostalgia-graphic-printed-oversized-t-shirt-587162-1681211862-3.jpg"
+     ],
+     "price": 599,
+     "MRP": 1299,
+     "discount": 549,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White All Over Donald Duck Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-all-over-donald-duck-printed-boyfriend-t-shirt-485110-1663263031-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-all-over-donald-duck-printed-boyfriend-t-shirt-485110-1663263031-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-all-over-donald-duck-printed-boyfriend-t-shirt-485110-1663263036-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-all-over-donald-duck-printed-boyfriend-t-shirt-485110-1663263042-3.jpg",
+      "hhttps://images.bewakoof.com/t1080/women-s-white-all-over-donald-duck-printed-boyfriend-t-shirt-485110-1663263047-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 1499,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "cotton": "100% COTTON",
+     "brand": "disney x bewakoof merchandise"
+    },
+    {
+      "name": "Women's Black Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747741-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747746-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 319,
+      "fit": "BOYFRIEND FIT",
+      "brand": "Bewakoof®"
+     },
+     {
+      "name": "Women's White Slim Fit T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748089-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748094-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748100-4.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 279,
+      "fit": "SLIM FIT",
+      "brand": "Bewakoof®"
+     },
+    {
+     "name": "Women's Black Starboi Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749782-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749782-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749787-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749793-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-starboi-graphic-printed-boyfriend-t-shirt-501434-1655749809-6.jpg"
+     ],
+     "price": 399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Black Lost In The Mountains Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-black-lost-in-the-mountains-boyfriend-t-shirt-272013-1661352831-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-black-lost-in-the-mountains-boyfriend-t-shirt-272013-1661352831-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lost-in-the-mountains-boyfriend-t-shirt-272013-1661352837-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lost-in-the-mountains-boyfriend-t-shirt-272013-1661352842-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-black-lost-in-the-mountains-boyfriend-t-shirt-272013-1661352847-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Pineapple Yellow Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-pineapple-yellow-oversized-t-shirt-512887-1674666701-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-pineapple-yellow-oversized-t-shirt-512887-1674666701-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pineapple-yellow-oversized-t-shirt-512887-1674666707-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pineapple-yellow-oversized-t-shirt-512887-1674666712-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-pineapple-yellow-oversized-t-shirt-512887-1674666723-5.jpg"
+     ],
+     "price": 509,
+     "MRP":899,
+     "discount": 459,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217148-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217148-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217154-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217160-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217166-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Black The Mighty Meows Graphic Printed Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/mighty-meows-boyfriend-t-shirt-515453-1656919884-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/mighty-meows-boyfriend-t-shirt-515453-1656919884-1.jpg",
+      "https://images.bewakoof.com/t1080/mighty-meows-boyfriend-t-shirt-515453-1656919890-2.jpg",
+      "https://images.bewakoof.com/t1080/mighty-meows-boyfriend-t-shirt-515453-1656919895-3.jpg",
+      "https://images.bewakoof.com/t1080/mighty-meows-boyfriend-t-shirt-515453-1656919900-4.jpg"
+     ],
+     "price": 399,
+     "MRP": 999,
+     "discount": 369,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's White Beck Striped Oversized T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-548176-1679924132-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-548176-1679924132-1.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-548176-1679924137-2.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-548176-1679924143-3.jpg",
+      "https://images.bewakoof.com/t1080/women-white-printed-t-shirt-548176-1679924154-5.jpg"
+     ],
+     "price": 509,
+     "MRP":899,
+     "discount": 459,
+     "fit": "OVERSIZED FIT",
+     "cotton": "100% COTTON",
+     "brand": "peanuts x bewakoof"
+    },
+    {
+     "name": "Women's Birthday Yellow Tie & Dye Oversized Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-birthday-yellow-tie-dye-oversized-boyfriend-t-shirt-479963-1667493544-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-birthday-yellow-tie-dye-oversized-boyfriend-t-shirt-479963-1667493544-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-birthday-yellow-tie-dye-oversized-boyfriend-t-shirt-479963-1667493549-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-birthday-yellow-tie-dye-oversized-boyfriend-t-shirt-479963-1667493555-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-birthday-yellow-tie-dye-oversized-boyfriend-t-shirt-479963-1667493570-6.jpg"
+     ],
+     "price": 509,
+     "MRP":899,
+     "discount": 459,
+     "fit": "OVERSIZED FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+     "name": "Women's Red Pocket Jerry Slim Fit T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-red-pocket-jerry-slim-fit-t-shirt-242006-1655747764-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-red-pocket-jerry-slim-fit-t-shirt-242006-1655747764-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-pocket-jerry-slim-fit-t-shirt-242006-1655747769-2.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-pocket-jerry-slim-fit-t-shirt-242006-1655747774-3.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-pocket-jerry-slim-fit-t-shirt-242006-1655747785-5.jpg"
+     ],
+     "price": 509,
+     "MRP":899,
+     "discount": 459,
+     "fit": "SLIM FIT",
+     "brand": "tom & jerry x bewakoof merchandise"
+    },
+    {
+     "name": "Women's Red Escape The Ordinary Boyfriend T-shirt",
+     "image": "https://images.bewakoof.com/t1080/women-s-red-escape-the-ordinary-boyfriend-t-shirt-218334-1655748420-1.jpg", 
+     "images": [
+      "https://images.bewakoof.com/t1080/women-s-red-escape-the-ordinary-boyfriend-t-shirt-218334-1655748420-1.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-escape-the-ordinary-boyfriend-t-shirt-218334-1655748425-2.jpg",
+      "https://images.bewakoof.com/t96/women-s-red-escape-the-ordinary-boyfriend-t-shirt-218334-1655748436-4.jpg",
+      "https://images.bewakoof.com/t1080/women-s-red-escape-the-ordinary-boyfriend-t-shirt-218334-1655748436-4.jpg"
+     ],
+     "price": 349,
+     "MRP": 1099,
+     "discount": 319,
+     "fit": "BOYFRIEND FIT",
+     "brand": "Bewakoof®"
+    },
+    {
+      "name": "Women's Purple Sunny Moooood Graphic Printed Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219884-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219890-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219895-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-purple-sunny-moooood-graphic-printed-boyfriend-t-shirt-588990-1681219900-4.jpg"
+      ],
+      "price":399,
+      "MRP": 999,
+      "discount": 369,
+      "fit": "BOYFRIEND FIT",
+      "cotton": "100% COTTON",
+      "brand": "Bewakoof®"
+     },
+     {
+      "name": "Women's White Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217148-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217148-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217154-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217160-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-boyfriend-t-shirt-119167-1674217166-4.jpg"
+      ],
+      "price": 399,
+      "MRP": 999,
+      "discount": 369,
+      "fit": "BOYFRIEND FIT",
+      "brand": "Bewakoof®"
+     },
+    {
+      "name": "Women's Black Boyfriend T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747741-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747746-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-black-boyfriend-t-shirt-103943-1655747735-1.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 319,
+      "fit": "BOYFRIEND FIT",
+      "brand": "Bewakoof®"
+     },
+     {
+      "name": "Women's White Slim Fit T-shirt",
+      "image": "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg", 
+      "images": [
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748084-1.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748089-2.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748094-3.jpg",
+       "https://images.bewakoof.com/t1080/women-s-white-t-shirt-243240-1655748100-4.jpg"
+      ],
+      "price": 349,
+      "MRP": 999,
+      "discount": 279,
+      "fit": "SLIM FIT",
+      "brand": "Bewakoof®"
+     }
+   ],
+
+   "menShirts": [
+    {
+     "name": "Men's Orange Tape Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-orange-tape-shirt-317831-1675057118-1.jpg",
+     "images":[ "https://images.bewakoof.com/t640/men-s-orange-tape-shirt-317831-1675057118-1.jpg",
+                "https://images.bewakoof.com/original/men-s-orange-tape-shirt-317831-1675057123-2.jpg",
+                "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057128-3.jpg",
+                "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057133-4.jpg",
+                "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057139-5.jpg",
+                "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057144-6.jpg",
+                "https://images.bewakoof.com/t1080/men-s-orange-tape-shirt-317831-1675057149-7.jpg"
+              ],
+     "price": 551,
+     "MRP": 1499,
+     "discount": 509,
+     "brand": "Bewakoof®",
+     "fit": "SLIM FIT",
+     "ratings": "4.6",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Color Block Slim Fit Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-color-block-slim-fit-shirt-538651-1661776755-1.JPG",
+     "images": [
+                "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776755-1.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776760-2.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776765-3.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776770-4.JPG",
+                "https://images.bewakoof.com/t1080/men-s-blue-color-block-slim-fit-shirt-538651-1661776775-5.JPG"
+     ],
+     "price": 674,
+     "MRP": 1499,
+     "discount": 639,
+     "brand": "Rigo",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Plus Size Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-black-plus-size-shirt-587079-1680858900-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858905-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858910-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858916-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-plus-size-shirt-587079-1680858916-4.jpg"
+ ],
+     "price": 1099,
+     "MRP": 1999,
+     "discount": 1039,
+     "brand": "Instafab Plus",
+     "fit": "Regular Fit",
+     "cotton": "100% COTTON",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Green Checked Plus Size Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-green-checked-plus-size-shirt-587101-1680859034-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859039-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859044-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-plus-size-shirt-587101-1680859050-4.jpg"
+     ],
+     "price": 1249,
+     "MRP": 2499,
+     "discount": 1179,
+     "brand": "Instafab Plus",
+     "fit": "Relaxed Fit",
+     "cotton": "100% COTTON",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Light Blue Plus Size Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-light-blue-plus-size-shirt-587077-1680858200-1.jpg",
+     "images":[
+"https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858206-2.jpg",
+"https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858211-3.jpg",
+"https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858216-4.jpg",
+"https://images.bewakoof.com/t1080/men-s-light-blue-plus-size-shirt-587077-1680858222-5.jpg"
+     ],
+     "price": 1099,
+     "MRP": 1999,
+     "discount": 1039,
+     "brand": "Instafab Plus",
+     "fit": "Oversized Fit",
+     "cotton": "100% COTTON",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Checked Plus Size Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-plus-size-shirt-587111-1680858531-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858537-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858542-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-plus-size-shirt-587111-1680858547-4.jpg"
+
+     ],
+     "price": 1099,
+     "MRP": 1999,
+     "discount": 1039,
+     "brand": "Instafab Plus",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Checked Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-11-585383-1679997545-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997550-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997556-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997561-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-11-585383-1679997566-5.jpg"
+      
+     ],
+     "price": 769,
+     "MRP": 1499,
+     "discount": 729,
+     "brand": "Campus Sutra",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Shirt",
+     "image" :"https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894016-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894022-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894032-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894048-7.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-585136-1679894043-6.jpg"
+     ],
+     "price": 1019,
+     "MRP": 1699,
+     "discount": 959,
+     "brand": "Campus Sutra",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Shirt",
+     "image" :"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070986-1.jpg",
+     "images":[
+"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070991-2.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070996-3.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071002-4.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071017-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Red Floral Printed Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-red-floral-printed-shirt-585390-1680072225-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072231-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072236-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072241-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-red-floral-printed-shirt-585390-1680072247-5.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Striped Shirt",
+     "image" :"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071396-1.jpg",
+     "images":[
+"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071401-2.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071406-3.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071412-4.jpg",
+"https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071417-5.jpg"
+     ],
+     "price": 824,
+     "MRP": 1499,
+     "discount": 779,
+     "brand": "Campus Sutra",
+     "fit": "OVERSIZED FIT",
+     "ratings": "5",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's White Awning Striped Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-white-awning-striped-shirt-581477-1677138733-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138738-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138744-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138749-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-awning-striped-shirt-581477-1677138754-5.jpg"
+     ],
+     "price": 807,
+     "MRP": 1499,
+     "discount": 759,
+     "brand": "7 Shores",
+     "fit": "Relaxed Fit",
+     "ratings": "5",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-grey-shirt-585411-1680071600-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071605-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071610-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071617-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585411-1680071627-6.jpg"
+     ],
+     "price": 631,
+     "MRP": 1149,
+     "discount": 599,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Green Checked Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585400-1680070778-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070783-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070789-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070794-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585400-1680070805-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-grey-shirt-585412-1680071359-1.JPG",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071364-2.JPG",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071369-3.JPG",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071375-4.JPG",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585412-1680071391-7.JPG"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Cream Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-cream-shirt-585414-1680071638-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071644-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071649-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071654-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-cream-shirt-585414-1680071665-6.jpg?tr=q-100"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's White Checked Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-white-checked-shirt-585403-1680071060-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071066-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071071-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071076-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-checked-shirt-585403-1680071087-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Checked Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-585418-1680071321-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071327-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071332-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071342-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585418-1680071353-7.jpg"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue All Over Printed Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-tie-dye-printed-shirt-585420-1680070665-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070671-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070676-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070681-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-tie-dye-printed-shirt-585420-1680070687-5.jpg"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Checked Shirt",
+     "image" :"https://images.bewakoof.com/t640/men-s-blue-checked-shirt-585415-1680071162-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071167-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071173-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071178-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-checked-shirt-585415-1680071183-5.jpg"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's White Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585417-1680071536-1.JPG",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071542-2.JPG",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071547-3.JPG",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071552-4.JPG",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071557-5.JPG",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585417-1680071568-7.JPG"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "ratings": "5",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue All Over Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-blue-printed-shirt-585402-1680071573-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071579-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071584-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071589-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585402-1680071595-5.jpg"
+     ],
+     "price": 631,
+     "MRP": 1149,
+     "discount": 599,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Multicolor All Over Animal Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-multicolor-printed-shirt-585393-1680071205-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071210-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071215-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071221-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071226-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-multicolor-printed-shirt-585393-1680071231-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-grey-shirt-585406-1680071675-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071681-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071691-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071697-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071702-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585406-1680071707-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black All Over Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-printed-shirt-585391-1680072225-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072231-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072241-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072247-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072252-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-shirt-585391-1680072257-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Lotus Pink Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-lotus-pink-checked-shirt-585408-1680070879-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070884-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070889-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070895-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070905-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-lotus-pink-checked-shirt-585408-1680070911-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-blue-shirt-585405-1680070703-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070708-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070714-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070719-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070730-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-shirt-585405-1680070735-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Green Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585409-1680071713-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071718-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071724-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071729-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071740-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585409-1680071745-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "SLIM FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Peacock Green Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-peacock-green-checked-shirt-585394-1680070916-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070922-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070927-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070932-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070943-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-peacock-green-checked-shirt-585394-1680070948-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Maroon Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-maroon-shirt-585419-1680071023-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071028-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071034-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071039-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071044-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071049-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-maroon-shirt-585419-1680071055-7.jpg"
+     ],
+     "price": 539,
+     "MRP": 1199,
+     "discount": 509,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's White Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585416-1680071279-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071284-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071295-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071300-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071310-7.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585416-1680071316-8.jpg"
+     ],
+     "price": 516,
+     "MRP": 1149,
+     "discount": 489,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-grey-shirt-585404-1680071433-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071444-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071449-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071455-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-shirt-585404-1680071460-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue Striped Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-blue-striped-shirt-585140-1679894202-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894207-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894213-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894218-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894228-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-striped-shirt-585140-1679894233-7.jpg"
+     ],
+     "price": 824,
+     "MRP": 1499,
+     "discount": 779,
+     "brand": "Campus Sutra",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black All Over Animal Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-animal-printed-shirt-585396-1680071093-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071098-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071103-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071109-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071119-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-animal-printed-shirt-585396-1680071125-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Printed Slim Fit Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-printed-slim-fit-shirt-587046-1680783012-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783017-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783023-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783028-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783034-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-printed-slim-fit-shirt-587046-1680783045-7.jpg"
+     ],
+     "price": 799,
+     "MRP": 1999,
+     "discount": 759,
+     "brand": "Rigo",
+     "fit": "SLIM FIT",
+     "cotton": "BREATHABLE & STRONG",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Slim Fit Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-self-designed-slim-fit-shirt-587051-1680783484-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783489-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783495-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783500-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783511-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-self-designed-slim-fit-shirt-587051-1680783516-7.jpg"
+     ],
+     "price": 764,
+     "MRP": 1699,
+     "discount": 719,
+     "brand": "Rigo",
+     "fit": "SLIM FIT",
+     "cotton": "100% COTTON",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Brown Paisley Printed Slim Fit Shirt 1",
+     "image":"https://images.bewakoof.com/t640/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783094-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783099-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783110-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783120-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783131-8.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-ethnic-motif-printed-slim-fit-shirt-587055-1680783126-7.jpg"
+     ],
+     "price": 799,
+     "MRP": 1999,
+     "discount": 759,
+     "brand": "Rigo",
+     "fit": "SLIM FIT",
+     "cotton": "BREATHABLE & STRONG",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Yellow Marble Printed Slim Fit Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783267-1.jpg",
+     "images":[
+     "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783272-2.jpg",
+     "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783278-3.jpg",
+     "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783283-4.jpg",
+     "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783288-5.jpg",
+     "https://images.bewakoof.com/t1080/men-s-yellow-abstract-printed-slim-fit-shirt-587054-1680783299-7.jpg"
+     ],
+     "price": 799,
+     "MRP": 1999,
+     "discount": 759,
+     "brand": "Rigo",
+     "fit": "SLIM FIT",
+     "cotton": "BREATHABLE & STRONG",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Paisley Printed Slim Fit Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783137-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783148-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783153-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783158-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783175-8.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-ethnic-motif-printed-slim-fit-shirt-587053-1680783169-7.jpg"
+     ],
+     "price": 799,
+     "MRP": 1999,
+     "discount": 759,
+     "brand": "Rigo",
+     "fit": "SLIM FIT",
+     "cotton": "BREATHABLE & STRONG",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Brown All Over Animal Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-brown-animal-printed-shirt-585398-1680072225-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072231-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072247-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072252-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072225-1.jpg",
+      "https://images.bewakoof.com/t1080/men-s-brown-animal-printed-shirt-585398-1680072257-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Green Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-green-checked-shirt-585392-1680071130-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071135-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071146-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071152-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-green-checked-shirt-585392-1680071157-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Grey Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-grey-checked-shirt-585401-1680071466-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071471-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071482-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071487-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-grey-checked-shirt-585401-1680071492-6.jpg"
+
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "OVERSIZED FIT",
+     "ratings": "5",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-checked-shirt-585397-1680071242-1.JPG",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071247-2.JPG",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071253-3.JPG",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071258-4.JPG",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071268-6.JPG",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585397-1680071274-7.JPG"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [36, 38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-shirt-585413-1680071396-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071406-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071412-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071417-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071422-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-shirt-585413-1680071428-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's White Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-white-shirt-585389-1680070815-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070821-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070831-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070836-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-shirt-585389-1680070842-6.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Oversized Fit",
+     "size": [38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Black Striped Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-striped-shirt-11-584816-1679388577-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388582-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388588-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388598-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388604-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-striped-shirt-11-584816-1679388609-7.jpg"
+     ],
+     "price": 749,
+     "MRP": 1249,
+     "discount": 709,
+     "brand": "7 Shores",
+     "fit": "Relaxed Fit",
+     "size": [38, 40, 44]
+    },
+    {
+     "name": "Men's White Floral Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-white-floral-printed-shirt-584831-1679388796-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388801-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388807-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388812-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-white-floral-printed-shirt-584831-1679388817-5.jpg"
+     ],
+     "price": 749,
+     "MRP": 1349,
+     "discount": 709,
+     "brand": "7 Shores",
+     "fit": "SLIM FIT",
+     "size": [36, 38, 40, 42, 44]
+    },
+    {
+     "name": "Men's Blue All Over Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-blue-printed-shirt-585388-1680072225-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072236-3.jpg",
+      "https://images.bewakoof.com/original/men-s-orange-tape-shirt-317831-1675057123-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072247-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072252-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-blue-printed-shirt-585388-1680072257-7.jpg"
+     ],
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Relaxed Fit",
+     "size": [36, 38, 40, 44]
+    },
+    {
+     "name": "Men's Black Balanced Aztec Ethnic Motif Printed Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139424-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139429-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139434-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139440-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-balanced-aztec-ethnic-motif-printed-shirt-581475-1677139445-5.jpg"
+     ],
+     "price": 807,
+     "MRP": 2799,
+     "discount": 769,
+     "brand": "7 Shores",
+     "fit": "Regular Fit",
+     "size": [34, 38, 40, 42, 46]
+    },
+    {
+     "name": "Men's Black Checked Shirt",
+     "image":"https://images.bewakoof.com/t640/men-s-black-checked-shirt-585407-1680070986-1.jpg",
+     "images":[
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070991-2.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680070996-3.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071002-4.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071007-5.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071012-6.jpg",
+      "https://images.bewakoof.com/t1080/men-s-black-checked-shirt-585407-1680071017-7.jpg"
+     ],
+     
+     "price": 659,
+     "MRP": 1199,
+     "discount": 619,
+     "brand": "Vastrado",
+     "fit": "Regular Fit",
      "size": [36, 38, 40, 42, 44]
     }
    ]

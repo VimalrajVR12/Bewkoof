@@ -1,0 +1,294 @@
+body{
+    font-family: "montserrat", sans-serif;
+}
+#payment-navbar{
+    display: flex;
+    justify-content: space-between;
+    width: 85%;
+    margin: auto;
+    height: 40px;
+}
+#payment-navbar>div:nth-child(2){
+    line-height: 2px;
+}
+#payment-navbar>div>p:nth-child(1){
+    color: gray;
+    font-size: 13px;
+}
+#payment-price{
+    /* border: 1px solid red; */
+    justify-content: space-between;
+    display: flex;
+    width: 50%;
+    margin-left: 8%;
+}
+#payment-mode{
+    border: 1px solid #eee;
+    display: flex;
+    width: 50%;
+    margin-left: 8%; 
+    border-radius: 2px;
+    height: 500px;
+}
+#left-payment-mode{
+    width: 50%;
+    background-color: whitesmoke;
+}
+#left-payment-mode>button{
+    display: block;
+    width: 100%;
+    margin: auto;
+    padding: 20px 15px;
+    border: none;
+    border-bottom: 1px solid 
+    #e0e0e0;
+    font-weight: bold;
+    text-align: left;
+}
+#left-payment-mode>button:nth-child(1){
+    border-left: 5px solid 
+    #42a2a2;
+    background-color: white;
+}
+#payment-debit{
+    border: 1px solid gainsboro;
+    width: 90%;
+    margin: 20px auto;
+    text-align: center;
+    border-radius: 5px;
+    display: block;
+}
+#payment-debit>div{
+    display: flex;
+    /* border: 1px solid black; */
+    align-items: center;
+}
+#payment-debit>div>img{
+    width: 20px;
+    height: 20px;
+    margin: 0 3% 0 10%;
+}
+input{
+    display: block;
+    width: 90%;
+    margin: auto;
+    padding: 10px 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid gray
+}
+#payment-debit>input:nth-child(4){
+    width: 40%;
+    display: inline;
+    margin: 0 2%;
+}
+#payment-debit>input:nth-child(5){
+    width: 40%;
+    display: inline;
+    margin: 0 2% 10px;
+}
+#card-payment-div2{
+    display: flex;
+align-items: center;
+}
+#card-payment-div2>label{
+    width: 90%;
+    font-weight: bold;
+}
+#card-payment-div2>input{
+    width: 10px;
+}
+#payment-debit>p{
+    padding: 0 10px;
+    color: gray;
+    text-align: left;
+}
+#card-pay-now-button{
+    width: 90%;
+    padding: 15px 20px;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+#card-pay-now-button:hover{
+    background-color: #308585;
+}
+#payment-wallet{
+    display: none;
+}
+#payment-wallet>div{
+    display: flex;
+    border: 2px solid #eee;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#payment-wallet>div>img{
+    height: 30px;
+    margin: 0px 20px;
+}
+#payment-wallet>div>p{
+width: 280px;
+}
+#payment-wallet>div>input{
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+
+#payment-net-banking{
+    display: none;
+}
+#payment-net-banking>div{
+    display: flex;
+    border: 2px solid #eee;
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#payment-net-banking>div>img{
+    height: 30px;
+    margin: 0px 20px;
+}
+#payment-net-banking>div>p{
+width: 280px;
+}
+#payment-net-banking>div>input{
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#payment-net-other-arrow{
+    border-radius: 50%;
+    height: 20px;
+    margin-left: 50%;
+    background-color: transparent;
+    border: 0;
+    transform: rotate(225deg);
+}
+#payment-net-banking>p{
+    font-size: 10px;
+    color: gray;
+    padding: 0 20px;
+}
+  
+#payment-upi{
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+    display: none;
+}
+#payment-upi>div{
+    display: flex;
+    width: 85%;
+    margin: auto;
+    align-items: center;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#payment-upi>div>img{
+    height: 30px;
+}
+
+#payment-upi>div:nth-child(1)>p:nth-child(2){
+    width: 200px;
+    margin-left: 5%;
+}
+#payment-upi>div:nth-child(1)>input{
+    height: 20px;
+    margin-top: 10px;
+    margin-left: 20%;
+}
+#payment-upi>input{
+    width: 85%;
+}
+#payment-upi>p{
+    padding: 0 30px;
+    color: gray;
+    text-align: left;
+}
+#payment-upi>div:nth-child(2){
+   margin-left: 20%;
+   border: 1px solid green;
+}
+#payment-upi>button{
+    width: 90%;
+    padding: 15px 20px;
+    background-color: teal;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+/* #payment-cod-button>p:nth-child(1){
+    text-decoration: line-through;
+    color: gray;
+    font-size: 10px;
+} */
+#payment-cod-button>p:nth-child(2){
+    color: #d29389;
+    font-size: 10px;
+}
+
+#payment-cod {
+    width: 100%;
+    margin-top: 0px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+    text-align: center;
+  }
+  
+  #payment-cod p {
+    margin: 0 0 10px 0;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  #cod-price {
+    padding: 10px 20px;
+    background-color: #42a2a2;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #payment-net-banking > button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid #eee;
+    width: 90%;
+    height: 45px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #42a2a2;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+  }
+  
+  
+  #payment-net-banking > button:hover {
+    background-color: #308585;
+  }

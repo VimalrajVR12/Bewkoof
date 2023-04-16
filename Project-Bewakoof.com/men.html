@@ -8,10 +8,6 @@
     <link rel="stylesheet" href="./Styles/header.css">
     <link rel="stylesheet" href="./Styles/men.css">
     
-    <!-- <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Montserrat:wght@600&family=Rowdies&display=swap" rel="stylesheet">
-     -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Rowdies&display=swap" rel="stylesheet">
@@ -33,14 +29,56 @@
         <div id="main_page">
             <div id="filters">
                 <div id="filter_head">FILTERS</div>
-                <div>Category</div>
-                <div>Sizes</div>
-                <div>Brand</div>
-                <div>Color</div>
-                <div>Design</div>
+                <select name="size" id="size" style="background-color: #f0f1f7;">
+                    <option value="">Sizes</option>
+                    <option value=36>36</option>
+                    <option value=38>38</option>
+                    <option value=40>40</option>
+                    <option value=42>42</option>
+                    <option value=44>44</option>
+                </select>
+                <select name="brand" id="brand" style="background-color: #f0f1f7;">
+                    <option value="">Brand</option>
+                    <option value="Bewakoof®">Bewakoof®</option>
+                    <option value="Rigo">Rigo</option>
+                    <option value="Instafab Plus">Instafab Plus</option>
+                    <option value="Campus Sutra">Campus Sutra</option>
+                    <option value="Vastrado">Vastrado</option>
+                    <option value="7 Shores">7 Shores</option>
+                </select>
+                <select name="color" id="color" style="background-color: #f0f1f7;">
+                    <option value="">Color</option>
+                    <option value="Orange" style="color: orange;">Orange</option>
+                    <option value="Blue" style="color: blue;">Blue</option>
+                    <option value="Black" style="color: black;">Black</option>
+                    <option value="Light Blue" style="color: lightblue;">Light Blue</option>
+                    <option value="Red" style="color: red;">Red</option>
+                    <option value="White" style="color: white;">White</option>
+                    <option value="Green" style="color: green;">Green</option>
+                    <option value="Peacock Green" style="color: #006a7e;">Peacock Green</option>
+                </select>
+                <select name="design" id="design" style="background-color: #f0f1f7;">
+                    <option value="">Design</option>
+                    <option value="Checked">Checked</option>
+                    <option value="Printed">Printed</option>
+                </select>
+                <select name="fit" id="fit" style="background-color: #f0f1f7;">
+                    <option value="">Fit</option>
+                    <option value="Regular Fit">Regular Fit</option>
+                    <option value="Slim Fit">Slim Fit</option>
+                    <option value="Relaxed Fit">Relaxed Fit</option>
+                    <option value="Oversized Fit">Oversized Fit</option>
+                </select>
+                <!-- <select name="discount" id="discount" style="background-color: #f0f1f7;">
+                    <option value="">Discount</option>
+                    <option value="">20% Or More</option>
+                    <option value="">30% Or More</option>
+                    <option value="">40% Or More</option>
+                    <option value="">50% Or More</option>
+                </select> -->
             </div>
             <div id="display_products">
-                <div id="sort_tab">
+                <!-- <div id="sort_tab">
                     <div id="sort_tab_head">
                         SORT BY &nbsp; 
                         <span>Popular</span> &nbsp; 
@@ -52,7 +90,7 @@
                         <div>Price:High to Low</div>
                         <div>Price: Low to High</div>
                     </div>
-                </div>
+                </div> -->
                 <div id="products">
                     
                 </div>

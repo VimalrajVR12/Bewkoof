@@ -73,3 +73,36 @@ function timeOutPopup(){
     openPopup = false;
     setTimeout(closePopup, 200);
 }
+
+// Search Bar
+document.getElementById("search_input").addEventListener("input", () => { debounce(searchData, 1000) });
+
+let timerId;
+function debounce(func, delay){
+    if(timerId)
+        clearTimeout(timerId)
+
+    timerId = setTimeout(() => {
+        func();
+    }, delay)
+}
+
+
+async function searchData(){
+
+    let input = document.getElementById("search_input").value;
+    let data = await fetch(`http://localhost:3000/menShirts?q=${input}&_page=1&_limit=5`);
+    data = await data.json();
+    console.log(data);
+    let temp = document.getElementById("search_result");
+    temp.classList.remove("hide")
+    temp.textContent = "";
+
+    data.map((ele) => {
+        let name = document.createElement("p");
+        name.textContent = ele.name;
+
+        temp.append(name);
+    })
+
+}

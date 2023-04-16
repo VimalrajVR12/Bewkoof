@@ -2,6 +2,7 @@
 /* Header */
 #header{
     position: fixed;
+    top: 0;
     width: 100%;
     font-family: sans-serif;
 }
@@ -79,6 +80,7 @@
 }
 #header_row_2_right #search_box input{
     width: 200px;
+    height: 30px;
     border: none;
     background-color: #eeeeee;
     font-size: 11px;
@@ -135,6 +137,8 @@ hr{
     border: 2px solid #eeeeee;
     padding: 1%;
     background-color: white;
+    position: absolute;
+    /* background-color: rgba(0, 0, 0, 0.7); */
 }
 #temp::-webkit-scrollbar{
     display: none;

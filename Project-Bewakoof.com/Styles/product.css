@@ -10,11 +10,13 @@
 #product_display{
     display: flex;
     flex-direction: row;
+    padding: 20px;
+    column-gap: 20px;
 }
 #product_display #image1{
     display: flex;
     flex-direction: row;
-    /* position: relative; */
+    column-gap: 10px;
 }
 /* SLIDER Function */
 #slideshow #swiper .swiper-up,
@@ -41,4 +43,58 @@
 
 
 /* Display Product Details */
-
+#product_display #details{
+    margin-top: -2%;
+}
+#product_display #details #price_container #price_div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#product_display #details #details_submain .size_block .size_div{
+    padding-bottom: 20px;
+}
+#product_display #details #details_submain .size_block .size_wrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: montserrat,sans-serif;
+    font-size: small;
+    font-weight: 750;
+}
+#product_display #details #details_submain .size_block .size_wrapper .size_buttons{
+    display: flex;
+    flex-direction: row;
+    column-gap: 20px;
+}
+#product_display #details #details_submain .size_block .select_size .size_buttons .size_button{
+    padding: 20px;
+    border-radius: 10px;
+    margin-right: 10px;
+    background-color: transparent;
+    border: 1px solid black;
+    color: #757575;
+}
+#product_display #details #details_submain .add_buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 2px solid #ececec;
+    padding: 20px 0;
+}
+#product_display #details #details_submain .add_buttons .cart_button,
+#product_display #details #details_submain .add_buttons .wish_button{
+    width: 200px;
+    border: 1.5px solid #ececec;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-radius: 5px;
+}
+#product_display #details #details_submain .add_buttons .cart_button{
+    background-color: #ffd84d;
+}
+#product_display #details #details_submain .add_buttons .wish_button{
+    color: #ececec;
+}
