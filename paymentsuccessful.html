@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Payment Successful</title>
+	<link rel="stylesheet" href="paymentsuccessful.css">
+</head>
+<body>
+	<div class="container">
+		<h1>Payment Successful</h1>
+		<p>Thank you for your payment. Your order has been successfully processed.</p>
+		<p>Your payment reference number is: <strong><span id="reference"></span></strong></p>
+		<p>You will receive a confirmation email shortly.</p>
+		<a href="#" class="btn">Continue Shopping</a>
+	</div>
+
+	<script>
+		// Generate a random payment reference number
+		function generateReferenceNumber() {
+			return Math.floor(Math.random() * 10000000000);
+		}
+
+		// Set the payment reference number in the HTML
+		document.getElementById("reference").innerHTML = generateReferenceNumber();
+	</script>
+</body>
+</html>
