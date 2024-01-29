@@ -1,6 +1,6 @@
 # Bewakoof.com Clone
 
-https://kaunainrizviii-portfolio-mca.vercel.app/static/media/Hirely.ce240cd479df0467b5ee.png
+![Bewakoof.com Clone](https://kaunainrizviii-portfolio-mca.vercel.app/static/media/Hirely.ce240cd479df0467b5ee.png)
 
 ## Introduction
 
@@ -25,5 +25,3 @@ Welcome to the Bewakoof.com Clone project! 🚀 This project is a collaborative 
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend (Simulated):** JSON for data representation
-
-
